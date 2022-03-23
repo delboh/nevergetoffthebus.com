@@ -1,0 +1,49 @@
+baseURL = "http://donotrehearse.com/"
+languageCode = "en-us"
+title = "do not rehearse"
+theme = "smol"
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+subtitle = "random thoughts from the sonic depths of academia"
+description = "random thoughts from the sonic depths of academia"
+author = "Ebo H"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+
+# Footer
+  [[menu.footer]]
+        name = "recent work"
+        url = "https://iainharvie.com"
+        weight = 1
+
+  [[menu.footer]]
+        name = "DAAS"
+        url = "https://delamitriareshite.com"
+        weight = 2
+
+  [[menu.footer]]
+        name = "play when people are listening"
+        url = "https://playwhenpeoplearelistening.com"
+        weight = 3 
+
+ 

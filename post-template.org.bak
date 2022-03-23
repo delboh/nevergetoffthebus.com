@@ -1,0 +1,10 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./posts/
+
+#+DATE: 2020-02-1-01
+#+HUGO_TAGS: tag1 tag2
+
+#+TITLE: Post title
+
+#+HUGO_DRAFT: true
+#+HUGO_CUSTOM_FRONT_MATTER: :image "./img/"

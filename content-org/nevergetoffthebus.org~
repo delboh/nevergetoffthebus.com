@@ -1,0 +1,104 @@
+#+hugo_base_dir: ../
+#+hugo_section: ./posts
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+#+author: Ebo H
+
+* Emacs                                                              :@emacs:
+All posts in here will have the category set to /emacs/.
+** TODO Writing Hugo blog in Org                                   :hugo:org:
+:PROPERTIES:
+:EXPORT_FILE_NAME: writing-hugo-blog-in-org-subtree-export
+:EXPORT_DATE: 2017-09-10
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
+:END:
+*** First heading within the post
+- This post will be exported as
+  =content/posts/writing-hugo-blog-in-org-subtree-export.md=.
+- Its title will be "Writing Hugo blog in Org".
+- It will have /hugo/ and /org/ tags and /emacs/ as category.
+- The menu item /weight/ and post /weight/ are auto-calculated.
+- The menu item /identifier/ is auto-set.
+- The /lastmod/ property in the front-matter is set automatically to
+  the time of export.
+**** A sub-heading under that heading
+- It's draft state will be marked as =true= as the subtree has the
+  todo state set to /TODO/.
+
+With the point _anywhere_ in this /Writing Hugo blog in Org/ post
+subtree, do =C-c C-e H H= to export just this post.
+
+The exported Markdown has a little comment footer as set in the /Local
+Variables/ section below.
+* Footnotes
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# org-hugo-footer:
+"\n\n[//]: # \"Exported with love from a post written in Org mode\
+"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:
+
+* Drafts
+** TODO  Zettelcasten
+:PROPERTIES:
+:EXPORT_FILE_NAME: zettelkasten
+:EXPORT_DATE: [2021-02-14 Sun 09:14]
+:END:
+
+After three years of taking notes exclusively on yellow legal pads with a Pelikan M200---notes on books, seminars, meetings, reviews of performances, late night ramblings and early morning inspiration---I finally came to terms with what was already blindingly obvious:
+
+no matter how much of my thinking and, hopefully, insight that might have been captured in three tote bags filled with the carefully indexed notepads
+(gathered up from their various bundles in and transported from Glasgow in March last year and now languishing beside my makeshift lockdown desk in Oxford) they were not going to be effortlessly transformed into my doctoral submission.
+
+As the stacks of yellow pads grew and and multiplied I had spent what feels like far too much time looking for and experimenting with writing tools.
+
+Part fo the reason for the growing accumulation of yellow notepads In spite of the ubiquity of Microsoft Word as the world-wide standard institutional writing environment I have always found that using the programme, even the simplest of tasks can quite quickly end up in a frustrating (and distracting) formatting mess.
+
+After attempting to become a Word 'power user' when writing the final submissions for my undergraduate degree---learning how write and edit styles and even going to the lengths of learning how to script macros in Virtual Basic---I still found myself being dragged into typsetting hell as deadlines approached and I swore never to use Word again if I could avoid it.
+
+Experimenting with a Linux operating system convinced me of the benefits of using open source software but not of using OpenOffice (or LibreOffice) as a platform for academic writing. Referencing and bibliographies with Open Office are just too glitchy and problematic.
+
+At the same time I had a look at the various commercial writing apps on the market and took out a subscription for the boutique Mac only application Ulysses.
+Ulysses has a slick distraction free interface that was appealing to me (and I wanted to be convinced by the evangelical community of developers and users that promote Ulysses as a game changing writing tool).
+Writing is done in plain text which is then formatted into a finished document. After the traumas of dealing with Word's styles and macros in the wee small hours ahead of a 9am deadline for a document submission this was a revelation. But in the end I didn't find the programme well suited to academic writing;
+I never found a satisfactory way to deal with citations and references, and using platform specific software proved to be more of an issue than I had imagined
+(Mac hardware ain't what it used to be in terms of reliability and repairability!).
+
+But, by a commodious vicus of recirculation this led me back to the world of open source software.
+Ulysses is at its core just a refined Markdown editor.
+I have some previous experience of using Emacs (the daddy of all open-source software), enough to know that someone would certainly have figured out---and shared---how to implement the best features of a commercial markdown driven writing application like Ulysses in Emacs.
+After a few minutes online I was looking at a plethora of blogs detailing how academic writers had employed Emacs as a platform for writing and publishing a doctoral thesis. I updated the copy of Emacs languishing on my computer and dived in.
+
+I'm not ashamed to admit that the bulk of the work I have done with respect to my doctorate in the past six moths has been spent researching and implementing this.
+Emacs is described as an `` extensible, customizable, self-documenting, real-time display editor''.
+It is a plain text editor that can be arbitrarily extended by importing external code libraries.
+The programme has been in constant use and development since 1970 and the body of free (as in open, and free as in gratis) code that is available is vast and mature enough that there are very few desktop computing tasks that cannot be done in Emacs.
+
+It is not a trivial thing to set up. 
+There were times when it did concern me that the geek in me had surfaced and I was simply using this as a distraction from my writing (or even just life in general---or what was left of it in the second half of 2020), but as I slowly figured out how to configure an effective writing and desktop publishing environment with Emacs I realised that there were things that I hadn't considered, or had not really got to grips with that were crucial to working effectively:
+how to properly format a bibliographic datatbase;
+how to compile and export publishing quality pdfs from multiple plain-text source files with LaTex mark-up;
+using version control with GitHub to back-up securely and to allow me to work on documents anywhere without the complications of keeping a master copy up to date.
+
+My confidence that I could chisel something resembling a coherent doctoral submission from all those hand written yellow pads returned. I had started to scan them so that I would have easier and portable access to them as I wrote but I quite quickly realised that it was much more practical to find things by leafing through the actual pads than trying to find things on the scans (hence the tote bags by my desk).  
+
+While poring over the intricacies and subtleties of configuring and working in Emacs (which is as more about understanding what you want the programme to do that anything else) something had come to my attention that had piqued my interest but I had parked in a TO DO list to avoid the risk of disappearing down a secondary learning wormhole;
+organizing notes in a relational database or Zettelkasten (german for `slip-box' or `card index box').
+
+The term Zettelkasten comes from the card index of Nicholas Luhmann a prodigiously productive academic who produced   
+
+ 
+
+above the creation of a bespoke writing app 
+
+
+* Footnotes
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# org-hugo-footer:
+"\n\n[//]: # \"Exported with love from a post written in Org mode\
+"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:
