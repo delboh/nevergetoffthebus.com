@@ -1,6 +1,5 @@
 #+hugo_base_dir: ../
 #+hugo_section: ./posts
-
 #+hugo_weight: auto
 #+hugo_auto_set_lastmod: t
 
@@ -12,7 +11,6 @@ All posts in here will have the category set to /emacs/.
 :PROPERTIES:
 :EXPORT_FILE_NAME: writing-hugo-blog-in-org-subtree-export
 :EXPORT_DATE: 2017-09-10
-:EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :foo bar :baz zoo :alpha 1 :beta "two words" :gamma 10
 :END:
 *** First heading within the post
