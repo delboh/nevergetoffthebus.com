@@ -8,11 +8,11 @@
 * Never get off the bus                                               :@Journal:
 ** DONE Get back on the bus                                           :dels:
 :PROPERTIES:
-:EXPORT_FILE_NAME: Never say never
+:EXPORT_FILE_NAME: Never say never.
 :EXPORT_DATE: 2022-03-25
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-And so it goes. Never say never. Back to the interstates again after all these years on to do a month of shows.
+And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
 
 ** DONE London to LAX
 :PROPERTIES:
