@@ -14,7 +14,7 @@
 :END:
 And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
 
-** DONE London to LAX
+** DONE  Tip the world over on its side and everything loose will land in Los Angeles.
 :PROPERTIES:
 :EXPORT_FILE_NAME: Tip the world over on its side and everything loose will land in Los Angeles.
 :EXPORT_DATE: 2022-03-25

@@ -1,8 +1,8 @@
 +++
-title = "London to LAX"
+title = "Tip the world over on its side and everything loose will land in Los Angeles."
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2022-03-26T21:05:11+00:00
+lastmod = 2022-03-26T21:24:32+00:00
 categories = ["Journal"]
 draft = false
 weight = 2002
