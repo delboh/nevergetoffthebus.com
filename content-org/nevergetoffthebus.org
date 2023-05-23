@@ -8,19 +8,20 @@
 * Never get off the bus                                               :@Journal:
 ** DONE Get back on the bus                                           :dels:
 :PROPERTIES:
-:EXPORT_FILE_NAME: Never say never.
+:EXPORT_FILE_NAME: never-say-never
 :EXPORT_DATE: 2022-03-25
+:EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
 
 ** DONE  Tip the world over on its side and everything loose will land in Los Angeles.
 :PROPERTIES:
-:EXPORT_FILE_NAME: Tip the world over on its side and everything loose will land in Los Angeles.
+:EXPORT_FILE_NAME: tip-the-world-over-on-its-side-and-everything-loose-will-land-in-los-angeles
 :EXPORT_DATE: 2022-03-25
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-In that weird liminal space—11 hours, 9000 meters above an ocean moving at nearly 1000kmh kilometres an hour in an intercontinental ballistic people carrier, after hours of waiting and moving through the non-spaces of airport terminals, now travelling back through the day to arrive not long after leaving, there seems to be nothing to think, nothing to consider except how to stay calm stuck in the same seat for half a day and the sheer implausibility of a 250 tonne airliner with three hundred people on board taking to the skies.
+In that   weird liminal space—11 hours, 9000 meters above an ocean moving at nearly 1000kmh kilometres an hour in an intercontinental ballistic people carrier, after hours of waiting and moving through the non-spaces of airport terminals, now travelling back through the day to arrive not long after leaving, there seems to be nothing to think, nothing to consider except how to stay calm stuck in the same seat for half a day and the sheer implausibility of a 250 tonne airliner with three hundred people on board taking to the skies.
 
 Back to the United States of America, after so long. Back to Los Angeles (the home of the sadly missed A&M records and still, somehow, Del Amitri’s spiritual home in the US) to get on a bus for a month of shows that will take us across the continent: from Los Angeles into the desert to Phoenix, north to Berkeley and Seattle and on to Vancouver; over the mountains to Colorado and back north to Milwaukee; through the mid-west via Toronto to the east coast, to Vermont and New York City, North Carolina and Atlanta, and finally to western Pennsylvania and Ohio.
 
@@ -36,7 +37,7 @@ On one level it feels complacent, or even complicit to be business-as-usual in t
 
 We have crossed an ocean. Nine kilometres below I can see a mind-blowingly enormous glacier. Temperatures at the south pole were 50 degrees above average last week. The plane I am flying in is a direct cause of that glacier melting. But would it make any difference if I stayed at home? Does the carbon footprint of men who spend billions to fly in to space for shits and giggles make a transatlantic flight to work for a month on the other side of the planet OK?
 
-If, as the cliche goes, travel broadens the mind (Why does Jeff Bezos have such a tiny head then?) then touring focuses your efforts. If nothing else touring is grounding. So much effort from so many people goes into making a show 9000 miles from home even happen.
+If, as the cliche goes, travel broadens the mind (why does Jeff Bezos have such a tiny head then?) then touring focuses your efforts. If nothing else touring is grounding. So much effort from so many people goes into making a show 9000 miles from home even happen.
 
 There is only one thing that you have to get right: that evening’s show. When it is right and we get to play and there are people there to listen to the music we make, something happens. Something that makes me glad to be alive. Glad to be alive in the most self-centred, solipsistic sense, sure, but also profoundly glad to be with people. People I know and people I don’t know and might never meet again, people who might hold different beliefs from me about almost everything in the world apart from what is going on in that room for a brief couple of hours. Collectively, the pessimism seems to ease (even if the music might be openly pessimistic—watching The Fall night on a brief Scottish tour was a visceral and life-affirming experience; the two classic Joy Division records are, because of and not in spite of their bleakness, like consoling old friends that I have conversed with for forty years). The cloud of disaster seems marginally more remote for a while. 
 
@@ -47,17 +48,16 @@ And in the face of this we bring our little roadshow to travel across that impla
 
 ** TODO LAX to Hollywood
 :PROPERTIES:
-:EXPORT_FILE_NAME: Never say never
+:EXPORT_FILE_NAME: LAX to Hollywood
 :EXPORT_DATE: 2022-03-25
+:EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 
-** 
+ 
 
 
 * Footnotes
-* COMMENT Local Variables                                           :ARCHIVE:
-# Local Variables:
-# org-hugo-footer:
-"\n\n[//]: # \"with love from the end of the world\
-# End:
+* Local Variables                                           :noexport:
+org-hugo-footer: "\n\n[//]: # \"with love from the end of the world\
+End:
