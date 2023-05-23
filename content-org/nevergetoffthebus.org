@@ -48,7 +48,7 @@ And in the face of this we bring our little roadshow to travel across that impla
 
 ** TODO LAX to Hollywood
 :PROPERTIES:
-:EXPORT_FILE_NAME: LAX to Hollywood
+:EXPORT_FILE_NAME: lax-to-hollywood
 :EXPORT_DATE: 2022-03-25
 :EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
