@@ -5,6 +5,15 @@
 
 #+author: Ebo H
 
+* Post template                                                    :noexport:
+:PROPERTIES:
+:EXPORT_FILE_NAME: post-file-name
+:EXPORT_DATE: 2023-01-01
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+
+
 * Never get off the bus                                               :@Journal:
 ** DONE Get back on the bus                                           :dels:
 :PROPERTIES:
@@ -59,5 +68,5 @@ And in the face of this we bring our little roadshow to travel across that impla
 
 * Footnotes
 * Local Variables                                           :noexport:
-org-hugo-footer: "\n\n[//]: # \"with love from the end of the world\
+org-hugo-footer: "\n\n[//]: # \"with love from the end of the world\""
 End:
