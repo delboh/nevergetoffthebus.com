@@ -2,7 +2,7 @@
 title = "Get back on the bus"
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-24T11:20:45+01:00
+lastmod = 2023-05-25T11:59:39+01:00
 tags = ["dels"]
 categories = ["Journal"]
 draft = false
