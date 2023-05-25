@@ -2,13 +2,13 @@
 title = "LAX to Hollywood"
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T11:59:55+01:00
-categories = ["Journal"]
+lastmod = 2023-05-25T21:39:44+01:00
+categories = ["dels", "Journal"]
 draft = false
-weight = 2003
+weight = 2018
 [menu]
   [menu.main]
-    weight = 2003
+    weight = 2018
     identifier = "lax-to-hollywood"
 +++
 

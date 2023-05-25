@@ -2,14 +2,14 @@
 title = "Get back on the bus"
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T11:59:39+01:00
+lastmod = 2023-05-25T21:39:45+01:00
 tags = ["dels"]
-categories = ["Journal"]
+categories = ["dels", "Journal"]
 draft = false
-weight = 2001
+weight = 2020
 [menu]
   [menu.main]
-    weight = 2001
+    weight = 2020
     identifier = "get-back-on-the-bus"
 +++
 

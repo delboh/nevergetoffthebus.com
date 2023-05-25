@@ -13,59 +13,225 @@
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 
-
-* Never get off the bus                                               :@Journal:
-** DONE Get back on the bus                                           :dels:
+* Never get off the bus                                      :@dels:@Journal:
+** DONE Cleveland, Ohio
 :PROPERTIES:
-:EXPORT_FILE_NAME: never-say-never
-:EXPORT_DATE: 2022-03-25
+:EXPORT_FILE_NAME: cleveland-ohio
+:EXPORT_DATE: 2022-04-24
 :EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
+Cleveland, early on a Sunday morning. I feel fully recovered and in denial that this is the end of the road. The final venue is another damn supper club, The Music Box. There is a decent looking Sunday brunch on offer there but distressingly this will be accompanied either by a Doobie Brothers or a Crosby Stills Nash and Young tribute band depending on whether one chooses to eat upstairs or downstairs in the club. There is a long day ahead and this does not appeal to me as the most relaxing way to start it off. We are just across the river from The Flats where there seem to be a bunch of decent places to sit and chill with a coffee and a decent plate of food. The river taxi that would take me the 200m across the Cuyahoga River doesn’t run on Sundays but according to my phone it should only take 20 minutes to walk. Unfortunately the pedestrian bridge to downtown is shut for repairs and after forty minutes of going round in circles I am high up on the Cleveland Memorial Shoreway pretty much directly over where I started. I eventually make it across. It has taken me an hour to traverse the 200m. I find a shady table a chi-chi eaterie overlooking the river but the vibe is somewhat undermined by the fact that there are thousands of dead and dying fish floating on the surface. The canoeists and the scullers that pass by seem unperturbed by this but I have to consciously suppress being really creeped out—I would be utterly shocked to see this in the Clyde, or even in the Thames.
 
-** DONE Tip the world over on its side and everything loose will land in Los Angeles.
+I can’t face the hour's walk back so after eating I call a taxi to take me back to the other side of the river. He gets lost in the roads under the freeway when his sat nav tires to direct him over the closed bridge. When I finally get back to the other side I find out that Jim, Buddy and Brian have all fallen foul of what appears to be the same thing that almost laid me low during the encore at the Carrboro Arts Center. Everybody is on their feet and putting a brave face on it. We can cover for Buddy or Brian if needs be, but we can’t do much without a drummer. Kris is terrified he’ll catch it and come down with it before the flight tomorrow (understandable—no one wants to spend a seven hour flight being ill) and is keeping his distance. There is nothing to be done except wait and see what the state of play is at showtime. Everyone gets through the sound check and by early evening it looks like everyone is going to make it to the stage one way or another.
+
+When we walk out to play I am disconcerted that there are people at tables on three sides of the stage, something which always bothers me. (How can they see anything? It always makes me makes me feel as if I am in the way!) But the place seems to be full. There is nothing for it but to make like this is a proper rock and roll room and get on with it. Jim rises above his condition and the show turns out to be a worthy end to the tour. By the encores we are on top of our game and have the audience with us. Someone I don’t know gives me a bottle of Woodford Reserve. Beers and tequila shots are ordered up from the bar to the stage to toast a farewell to the continent before the equipment is whisked away back to the rental company and we board the bus for the overnight drive to the airport. I don’t really know what to feel, and it’s pretty obvious no one else does either. As the last few hundred miles to O’Hare International count down, arriving in Hollywood starts to seem like a lifetime ago. Justin is sitting up front drinking beer deep in conversation with Gary our bus driver. People drift to their bunks. Even without the norovirus casualties this was never going to be a night for partying. I crawl into my bunk and force myself to sleep. Six hours later I am standing with my suitcase on a sidewalk in front of a grim airport hotel watching the bus leave with a sense of panic in my heart wondering when I can do this all over again.
+** DONE Jergel's Rhythm Grille
 :PROPERTIES:
-:EXPORT_FILE_NAME: tip-the-world-over-on-its-side-and-everything-loose-will-land-in-los-angeles
-:EXPORT_DATE: 2022-03-25
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
-:END:
-In that   weird liminal space—11 hours, 9000 meters above an ocean moving at nearly 1000kmh kilometres an hour in an intercontinental ballistic people carrier, after hours of waiting and moving through the non-spaces of airport terminals, now travelling back through the day to arrive not long after leaving, there seems to be nothing to think, nothing to consider except how to stay calm stuck in the same seat for half a day and the sheer implausibility of a 250 tonne airliner with three hundred people on board taking to the skies.
-
-Back to the United States of America, after so long. Back to Los Angeles (the home of the sadly missed A&M records and still, somehow, Del Amitri’s spiritual home in the US) to get on a bus for a month of shows that will take us across the continent: from Los Angeles into the desert to Phoenix, north to Berkeley and Seattle and on to Vancouver; over the mountains to Colorado and back north to Milwaukee; through the mid-west via Toronto to the east coast, to Vermont and New York City, North Carolina and Atlanta, and finally to western Pennsylvania and Ohio.
-
-If Herb Alpert and Gerry Moss (and Al Cafaro, Brad and Barbara and Al and all those lovely people at A&M) gave us a spiritual US home in Los Angeles, Del Amitri’s heart was stolen on the road: in a car park in Louisville Kentucky, under a freeway in Jackson Mississippi, on Daytona Beach; at Shank Hall, the Double Door, the 9:30 Club, St. Andrews Hall (even at Rome 90 where it wasn't clear if there was actually anyone in the audience at the show). It was stolen by all the people who come to see us at concerts in Boulder, in New York City, in Dallas and in New Orleans, in Minneapolis and in Chicago (remembering of course dear Ross Greirson, gone but not forgotten) and the hundred other towns we made it to. 
-
-So much seems to have changed since we recorded Fatal Mistakes (never mind since we last toured in the US). From where I am sat for the next 11 hours it is hard not to gaze out into the sky and wonder about the world nine kilometres below, a world that seems to be crumbling in humanity’s collective hands.
-
-Comprehending the complex aerodynamics that are keeping the 250 tonnes in the air at the moment starts to look like a puny challenge in the face of trying to make sense of the complacent inhumanity to fellow beings and the willful negligence of the planet that twenty first century homo sapiens seems capable of. Disaster capitalism prevails: nationalist wars, ethnic cleansing, disease, poverty, global warming continue to bring catastrophe to countless millions while the super rich bicker amongst themselves and thrive.
-
-And when intelligent beings think and plan and sustain war it is almost impossible no to sink into cynicism about politics and progress towards a peaceful and equitable society. 
-
-On one level it feels complacent, or even complicit to be business-as-usual in the face of what is going down around us (not that anything actually is ‘business as usual’ for any of us at the moment—except perhaps for the Musks and Bezoss of the planet). 
-
-We have crossed an ocean. Nine kilometres below I can see a mind-blowingly enormous glacier. Temperatures at the south pole were 50 degrees above average last week. The plane I am flying in is a direct cause of that glacier melting. But would it make any difference if I stayed at home? Does the carbon footprint of men who spend billions to fly in to space for shits and giggles make a transatlantic flight to work for a month on the other side of the planet OK?
-
-If, as the cliche goes, travel broadens the mind (why does Jeff Bezos have such a tiny head then?) then touring focuses your efforts. If nothing else touring is grounding. So much effort from so many people goes into making a show 9000 miles from home even happen.
-
-There is only one thing that you have to get right: that evening’s show. When it is right and we get to play and there are people there to listen to the music we make, something happens. Something that makes me glad to be alive. Glad to be alive in the most self-centred, solipsistic sense, sure, but also profoundly glad to be with people. People I know and people I don’t know and might never meet again, people who might hold different beliefs from me about almost everything in the world apart from what is going on in that room for a brief couple of hours. Collectively, the pessimism seems to ease (even if the music might be openly pessimistic—watching The Fall night on a brief Scottish tour was a visceral and life-affirming experience; the two classic Joy Division records are, because of and not in spite of their bleakness, like consoling old friends that I have conversed with for forty years). The cloud of disaster seems marginally more remote for a while. 
-
-I always felt reassured that devoting my labour to writing and playing music was at least a way to disengage with ‘the system’ and at best, by disengaging, a form of protest even if the music Del Amitri make is not, on the surface at least, protest music. Maybe it would be better if all music was overtly political but somehow for me that breaks the spell: ``You are either with us or against us''---cynicism is back in the room. There are times and places where there is no choice but to be militant, to call for action and to take action against what is unquestionably immoral and wrong. Those times and places seem more urgent and more frequent now that I have ever known.
-
-And in the face of this we bring our little roadshow to travel across that implausibly great and implausibly flawed continent that is North America. Not because we can’t think of anything better to do in the face of the shit that is flying around us all, but to feel alive and to share that feeling. And because we love it.
-
-** DONE LAX to Hollywood
-:PROPERTIES:
-:EXPORT_FILE_NAME: lax-to-hollywood
-:EXPORT_DATE: 2022-03-25
+:EXPORT_FILE_NAME: jergels-rhythn-grille
+:EXPORT_DATE: 2022-04-23
 :EXPORT_HUGO_MENU: :menu "main"
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-The driver that picks us up at LAX to deliver us to the hotel at Hollywood and Highland—the centre of very deepest circle of  Los Angeles—is a gentle spoken bear of a man named, appropriately enough, Virgil. He swaps his cowboy hat for an ominously Trumpian red baseball cap as he gets into the driving seat but I can't see the front of it as he drives. Virgil has his phone guide the Econoline via a commodious route through the steam-rollered smorgasbord of Los Angeles culture on freeways that take us past the The Getty and Universal City.
-Like all real southern gentlemen Virgil engages effortlessly in conversation. I am riding shotgun—in the conversation seat—but just off the plane I haven’t yet got used to tempering my accent for stateside consumption and out of necessity the exchange ends up being pretty much one-way. By the time we pull of the Hollywood freeway I know a lot about Virgil.
+Jergel’s Rhythm Grille might as well be located on its own planet. It is 28 degrees and getting hotter, but according to the locals it was snowing two days previously which might explain why the car park surrounding the place is lined with trees bursting with luxurious yellow blossom that gets visibly more abundant as the day wears on and the temperature goes up. Jergel’s is big, plush club with private rooms and a cigar and whiskey bar behind the stage. We are aware that this is the one show on the tour that hasn’t sold well, at least in relation to its capacity. As a courtesy I want to make sure that the manager A. J. knows that we know this and A. J. explains that they have problems selling concert tickets generally because touring bands are requesting that ticket holders are vaccinated against Covid and hardly anyone in western Pennsylvania is. This takes a second to rationalise—we are in heartland, rust belt United States and liberal expectations need to be reigned in here. I can’t formulate a coherent reply and nod vaguely.
+Sound check is early to allow the place to open at 5 and by 4.30 we are all at a loose end. I get talking to A. J. again who, to my surprise, tells me he walks to work. “It takes me five minutes to walk here and two hours to walk home”. Jergel’s is, coincidentally, just off highway 19 (albeit 300 miles north of the picnic table we were sat at last night out front of the Summersville Hampton Suites) and remembering that it was pretty much impossible to get across the road there, I wonder if this has something to do with it. “Nah, I always stop at the bar. Just over there,” he says pointing to a building fifty feet away obscured by the blossoming trees. “The Brush Creek Inn. Been there since 1886. If you go over there tell Sue I sent you.” It doesn’t seem like much around these parts would predate 1986 so this piques my interest. As I’m heading over there I bump into Justin and we make our way past the pickups and the Harley’s lined up in front and head inside. The pool room clientele looks like it could be a little challenging but the bar is quiet so we choose a table and I order a beer. (Justin is on water and really so should I be given the recent stomach upset, but I can’t see us getting away with ordering two waters). There is a sign next to the cigarette machine (yes, it you can still smoke in bars in Warrendale) that says the jukebox is OFF during Pittsburgh sporting games. And sure enough the five people in the bar are all watching the Pittsburgh Pirates vs the Chicago Cubs live from Wrigley Field on a tv behind the bar. While I’m ordering I notice that the score is 17-0 to Chicago. By the time I’ve finished my Heineken the final score is 21-0 which is unheard of in Major League baseball. 4-0 is a sound defeat. 10-0 is an embarrassing drubbing. 21-0 must be some kind of record. We leave without engaging the locals.
+In the end a respectable 150 turn up to watch us play. Not enough to make Jergel’s look busy exactly, but enough people to make the show seem worthwhile, and as always with US audiences they make us feel much appreciated. It is an early show and we are loaded out by 12.30. With a short drive to Cleveland, the bus isn’t due to leave till 4 am. By 1.30 the temptation presented by the Brush Creek Inn proves too great on the penultimate night of the tour and Buddy, Jim and I throw caution to the wind and decide make our way over for a nightcap. Everyone is super hospitable. Sure enough, A. J. is there but having spent the entire day at the bar in Jergel’s and now installed in the Brush Creek he is pretty much incoherent. He is surprisingly steady on his feet but I can see how it might take him two hours to get home. Last orders at 2 and back to the bus on the back of one of the massive bikes that are still parked outside (courtesy of Ryan, via a somewhat circuitous loop on Northgate Drive that must have woken everyone within half a mile). Just what touring should be like.
+** DONE Summersville, West Virginia.
+:PROPERTIES:
 
-Virgil is from rural Louisiana. He was born in 1957, worked as a truck driver until he retired in 2007 on health grounds. Since then he has recovered from two consecutive cancers each of which his doctors told him would kill him. But he told those doctors he would beat those cancers, and he did. He just started work again as a limo driver (which maybe explains why he hasn't had Samantha SatNav's soothing voice direct him on the much shorter route through downtown LA). He had his right knee done last year by the same orthopaedic surgeon that fixed Shaq O’Neal. He has just discovered two brothers he didn’t know he had and is planning to ride his new Indian bike on a four day road trip clear across the continent this summer to Maryland to meet them for the first time.  He doesn’t like flying. (But who does—-- and what kind of right-minded person would choose to fly over spending four days on the open road through deserts and over mountains on their Indian motorcycle?). Once we pull into the hotel car park Virgil swaps his hats again. I forgot to look to see what was embroidered on the front of the baseball cap. I’m sure there must be a basketball team in Louisiana who play in red. Maybe not. Maybe some MAGA people are real human beings.
- 
+:EXPORT_FILE_NAME: summersville-west-virginia
+:EXPORT_DATE: 2023-01-01
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+A welcome day off before the last two shows, or at least a stop-over on the twelve hour drive from Atlanta to Warrendale. Summersville, West Virginia—--this really is the back of beyond. According to Wikipedia Summersville has a population of 3,500. We are in a hotel just off highway 19 at the north edge of the town. Every one of the 3,500 inhabitants of Summersville seems to own a pickup truck and seems to be driving to somewhere in the continuous strip mall that lines both sides of highway 19 to buy a car, or a hamburger, or a shed, or to get some cosmetic surgery done. Nothing is accessible on foot. There are no sidewalks even on the roads around the hotel. It doesn’t seem possible to get to the other side of highway 19—--there are no crosswalks at the junctions. It is unexpectedly hot.
+
+The hotel’s one amenity, an outdoor swimming pool is closed and the staff have no intention of opening it for us which puts pay to the mooted proposal of a barbecue / pool party. A couple of sorties by individuals to a branch of Walmart visible 750 meters away across a small ravine and through a stand of trees return with reports of snake sightings. I content myself with taking photographs and head off towards a Day-Glo pink fireworks store perched on top of a hill nearby. On my way back I find a rocking chair on the shady porch of Tudor’s Biscuit World and sit there for an hour or so doing absolutely nothing. No one bothers me to order anything. When I get back to the Hampton Suites half of our band of brothers are at a picnic table in the evening sun and have resorted to drinking cans of something claiming to be Margarita purchased from a gas station. Vultures are circling overhead.
+** DONE Atlanta, Georgia
+I get through the night in one piece and as soon as we arrive I check into a hotel and crawl into bed in an attempt to shake off my indisposition. By soundcheck I have been sleeping pretty much constantly for the previous eighteen hours. I feel purged, physically and mentally: weird, but OK. By show time I am certain I am over this lurgy, physically at least. Atlanta is a big town for us—the Variety Playhouse is the last theatre show on the tour. Being in a slightly altered state on stage here feels good. I dig in and as we play I start to get a bit of that buzz that comes from having had nil by mouth for 24 hours.  Justin reckons this is the band’s best performance on the tour. Its never been my thing but if I thought I could guarantee an altered state that would have me feeling like this on stage every night, chemically or however (and not the aftermath of a norovirus, obviously) I would seriously consider it. But there lies an enticing promise that has screwed up many better muscians than me. It's great when you're straight ... Yaah.
+** DONE Chapel Hill, North Carolina
+:PROPERTIES:
+:EXPORT_FILE_NAME: chapel-hill-north-carolina
+:EXPORT_DATE: 2022-04-20
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Into the south, proper. North Carolina is lush and verdant. The skies are cloudless and the temperature is perfect. This feels like a different continent from Virginia, never mind New York. I set off from the strip mall where the Carrboro Arts Center languishes in the direction of downtown Chapel Hill. Walt’s Grill is en route and is quoted on the wire as a happening place for southern soul food. I stumble across it, but it is not what I was expecting. It stands on its own on a side street and at a first glance I mistakenly reckon that the building has been long abandoned. But while I am standing in the road in front of Walt’s taking a photo of the place, the door cracks open and a voice, which I want to presume belonged to Walt himself, barks “You alright boy?”. This might conceivably have had friendly intentions but the effect was not to entice me to step inside for lunch. I reply with the warmest “I’m doing just fine, thank you” I can muster and head on in to Chapel Hill.
+
+There is a remarkable Army surplus store across the street from the venue. Everyone visits the place over the course of the day and everyone is engaged in conversation by the owner Sid. Sid claims to be Scottish seven generations back. The place is piled high with everything from Navy greatcoats to cabinets for handling toxic materials. This place really is the end point for military residue: there is no fashionista camouflage here. As I rummage around, Sid’s partner, who is first generation Russian, assures me that they will have much more fashionable stock in the near future as a result of the Ukrainian war, which might well be true, but leaves me lost for words. Bizarrely, Sid also has a sideline in costumes—proper stage props stuff. While I am paying for a pair of shorts to extend my touring wardrobe to better accommodate the days heading south a preppy looking guy comes in and says he is looking for something to wear to his first Jimmy Buffet concert and proceeds to rummage around in the stage costumes considering everything from rah-rah skirts to pirate hats. I start to wonder what the fuck is going on.
+
+Back at the Carrboro Arts Center the stage manager informs us that our dressing room won’t be available till after the soundcheck because there will be after-school art class taking place there. Fair enough. And sure enough, the backstage area is an art classroom, still with crayons and paint brushes on the tables. Fast forward to midnight: I find myself sitting alone in this room with my head on one of the tables wrapped up in two hoodies, shivering. During the performance I had been aware that I was feeling below par, constantly wondering how long to go to the end of the set. I had felt pretty rough when we came off and then, back on for the encore I suddenly knew that I was about to throw up and /or collapse. Instinctively I had staggered off stage past Brian to the nearest backstage toilet. In that endorphin rush that comes on after emptying your stomach I made it back on stage just in time to not miss a beat as we started ‘I’m So Scared Of Dying’. Apart from Brian who was pretty sure I was going to land in his arms as I teetered past him no one had an inkling what was going on. A rough night loomed but there was nothing for it but to dose up on Imodium, try to get some sleep on the bus and, assuming we make it to Atlanta unscathed, take stock in the morning.
+** DONE The Birchmere Music Hall
+:PROPERTIES:
+:EXPORT_FILE_NAME: the-birchmere-music-hal
+:EXPORT_DATE: 202-04-19
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+After the overnight drive from Manhattan we have half a day to kill here before the business of the day starts. The presence of a golf cart in a glazed porch lined with famous arrest mug shots of musicians—Elvis Presley, Willy Nelson, Johnny Cash—is unsettling and at a first glance the surrounding streets do not look promising for places to hang out. But a proper reccy from the back lot of the Birchmere makes it apparent that we are in a very cool part of town. We are in a little bit of El Salvador. Everyone speaks Spanish. There is fruit for sale on the street. The convenience stores are stocked pretty much exclusively with Latin American produce and in the bakery on Mount Vernon Avenue the woman behind the counter calls someone from the back to deal with me when I speak to her in English. In El Pulgarcito there are half-a-dozen people in the kitchen prepping the days menu. The streets here are full of life. It all makes me nostalgic for the years Madeline and I spent living in Madrid. This is such a relief from the mind numbing banality of strip mall America and a side of US culture that we are rarely lucky enough to see—the absolute opposite of the middle-class college towns that we usually visit when tours have taken us south of the Mason-Dixon.
+
+When the business of the day finally gets underway and we convene in the venue for sound check The Birchmere reveals itself to be a gigantic supper club. The tv in the dressing room is promoting a forthcoming show by Three Dog Night with footage on a loop from a recent show of theirs. We had doubts about the legitimacy of going on the road to play clubs the US at our age but these guys are at least twenty years older than us (and they look it) and do a fine job of coming across like complete assholes even with the sound muted (thankfully). This is equal parts depressing and hilarious and not likely to be good for anyone’s digestion when Three Dog Night play here.
+
+Whether a Del Amitri set would be easier on the stomach after supper at the Birchmere is hard to fathom, but unexpectedly this turns out to be the a sold out show which is never to be sniffed at. And sure enough the people of Alexandria, fueled on the Birchmere’s redoubtable menu are raucous in a way that is somehow different from the Manhattanites. (Not in any way better or worse or less cool, just different.) They make this another night to remember.
+
+After the show Justin returns to the bus bearing Carne Asado with all the trimmings—papusas, rice, refried beans and sala—--from El Pulgarcito. It is one of the best meals of the tour.
+
+Not what we expected on a Tuesday night in Virginia.
+** DONE New York City
+:PROPERTIES:
+:EXPORT_FILE_NAME: new-york-city
+:EXPORT_DATE: 2023-01-01
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The famous skyline has been anonymized by the towers of glass that rise above Hudson Yards leaving only a glimpse of the needle on top of the Empire State building visible as we drive in from the west but the heart still beats faster as the city approaches.
+
+We have a day off so I get up early and go for a run along the Jersey shore before taking the NY Waterway from our hotel in Weehawken across the Hudson to the W 39th Street ferry terminal. I’m meeting friends and family in Union Square: it is sunny and cold and beautiful and I have given myself the time to walk, the only way to get about Manhattan—if you have the time. It is early on Easter Sunday so maybe it shouldn’t be a surprise that this is the quietest I have ever seen the city. But it feels very different from when I was last here seven years ago—it is not just the skyline that has changed: there are cycle lanes everywhere; every restaurant seems to have tables on the street. All good stuff, but the city feels less alive than it did seven years ago. Gentrification? Covid?
+
+From Union Square we head out on the subway to PS1, MoMA’s fabulous contemporary art space in Queens. The adjoining Little Five points, the graffiti capital of the world has been swept away and a towering grey apartment complex has taken its place. But the Court Square Diner is still there and thriving, and still serves a mean Reuben sandwich. After lunch there we head back into Manhattan to the upper west side and stroll back down through Central Park to take the subway back down to the Village. We pick up a pizza from Bleeker Street and a ‘funky’ bottle of wine in a trendy Hudson Street wine shop. The wine is from New York State  and is recommended after a long conversation with the proprietor who describes it to us as ‘unique’ and ‘earthy’. The pizza is excellent. The wine is well strange. It has a beer bottle cap. We give it time to breathe, we do our best to like it, but if you tried to serve this kind of stuff in Paris, even with pizza, there might be a civil disturbance. New York is still a place to savour.
+** DONE The Egg
+:PROPERTIES:
+:EXPORT_FILE_NAME: post-file-name
+:EXPORT_DATE: 2023-01-01
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+After a long overnight drive from Boston the bus reverses directly off of a highway into a loading bay under the Empire State Plaza in Albany NY. There is breakfast at the venue so after Gary has docked the bus and connected the shore power Kris and I venture out in search of catering.
+
+There is no obvious way out of the loading bay other than back out on to the roadway which is too dangerous an option to contemplate even at this hour on a holiday weekend in Albany. After investigating a few fire doors that would close and behind us potentially entombing us in a concrete bunker, I am about to opt for the freight elevator when I notice some curved red elevator doors in the corner. I push the call button and nothing seems to happen and Kris and I are about to turn our attention to the daunting prospect of operating the freight elevator (in flagrant disregard for multiple notices that only staff should do so) when the red doors slide open and a waistcoated lift operator perched on a stool in an padded elliptical elevator greets us with a chirpy “Hi! Del Amitri. I’m Colin and I’ll be your lift operator till five today. Catering and dressing rooms are on three and the stage is on two. Where do you want to go?” Doing our best to appear non-plussed we get in the lift. As we head up to three Colin tells us that he looked after Wishbone Ash the previous week. Ticket sales were disappointing, he tells us. I wonder who the hell is likely to come to see us in this place.
+
+The Egg is an windowless, building constructed entirely from reinforced concrete. Egg shaped, obviously, it sits perched in the middle of the New York State Capitol buildings. And this being Easter weekend, the entire complex appears to be completely deserted apart from us and our lift operator. There is no obvious way out of the building except back on to the freeway through the loading bay. You get kinda used to waking up in weird places on buses on tour; Blackpool Leisure Beach, Disneyland; in car parks in Kentucky and fields in Besançon but this is probably the weirdest yet.
+
+After breakfast and some negotiation with the very helpful staff a door to the outside world is unlocked for us. Outside turns out to be no less surreal than inside: the Empire State Plaza is a mish-mash of scaleless reinforced concrete buildings placed around two gigantic (empty) pools that were, presumably, meant to reflect the monstrous edifices that surround them. The place is a bleak, cold and dehumanising. If there is such a thing as fascist art this is an archetype. 
+At show time everyone in the audience has to be ferried up to the The Swyer (sic) Theater in the same elliptical lift (which has had the padding removed) now operated by the evening operator who is a good deal less garrulous than Colin. The Swyer is like a plush university lecture room with an improbably high tech spec. There is no bar to be seen but in spite of its lack of vibe the room sounds great and the show does not disappoint. After everyone has been ferried back down in the lift after the show I wander back out to the plaza to see what the place looks like after dark. A full moon has risen behind The Egg. I am on the set of a bad, eighties science fiction movie. New York City and another planet beckons.
+** DONE Sommerville Theater, Boston
+:PROPERTIES:
+:EXPORT_FILE_NAME: sommerville-theatre-boston
+:EXPORT_DATE: 2022-04-15
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The Crystal Ballroom is a chic club above the Somerville Theater, a very chic repertory cinema. There are people living on the streets but otherwise pretty much everything in Sommerville, MA is chic. It is a beautiful day with cloudless skies and Davis Square fills up as the sun warms but things go downhill when someone a guy who might be in his seventies appears with a semi-pro busking set up. He starts playing an acoustic guitar and has a remarkable improvisational technique—--I wonder if he could be a surviving member of the Grateful Dead: wrong coast, I suppose. Unfortunately every two minutes or so, in spite of the fact that he cannot sing he launches into tuneless steam-of-consciousness lyrics to accompany his playing. The locals enjoying the evening sun in David Square seem prepared to tolerate this, and some even seem to be enjoying it but after the fourth or fifth interlude of impressionistic wailing I can take no more. After spending a while fantasizing a scenario where I give the guy fifty bucks to stop playing for half-an-hour I head off sauntering around the boulevards of Somerville before picking up some food from a chic organic supermarket.
+
+Back at the bus show time is approaching. There is a familiar routine: people are resting or watching trash TV; Kris heads in to the venue to do his support slot, Andy cracks open a beer and Jim changes into his latest thrift shop stage wear purchase. The stage is small and the Crystal Ballroom is not your typical rock-and-roll club but there is an expansive bar at the back of the room which is always a good sign. And it’s Friday night. Sure enough a unexpectedly enthusiastic audience greets us.
+
+Just after we finish someone sets off the fire alarm. Justin is taking a shower in the basement dressing rooms and pays no attention while the Somerville Fire Department arrive with sirens blaring and troop into the building. The point man is carrying a huge axe but thankfully the false alarm is identified before he decides to descend into the basement to release him.
+** DONE Philadelphia
+:PROPERTIES:
+:EXPORT_FILE_NAME: post-file-name
+:EXPORT_DATE: 2022-04-14
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The World Cafe is surrounded on two sides by elevated streets. The stage door is under an elevated rail track and mile long freight trains with graffiti covered containers stacked two high on the flat-beds clatter past at walking pace fifty feet overhead.
+
+On the other side fifty-feet below street level the Shuylkill river cuts through the city flanked by an eight lane expressway and more rail tracks. The skyline is dominated by gigantic, shiny new Penn State University buildings. The scale of the place is overwhelming: none of this is familiar from previous visits to the city. I trust my phone to guide me across the Shuylkill and ten blocks east to Rittenhouse Square and a part of the city that operates at a scale that feels safe for an individual on foot and is a little less existentially challenging. Chicago and New York City seem to make sense as huge towns that don’t really relate to places you might visit in Europe. The Los Angeles area sprawls so massively that you just stop thinking about it as mile after mile of it passes on the freeway. But being dropped into an unfamiliar part of Philadelphia is a reminder of how many huge cities there are in North America.
+
+Downtown  I line up for food at a very worthy looking ethical eatery on Chestnut Avenue and sidestep the extensive questionnaire that the people in front of me have to deal with to get a plate of food by ordering the ‘chef curated’ Spring Harvest bowl. The only query I have to fend is whether I want a protein with it. Not really understanding the question I decline and my curation is put together in front of me: quinoa and lentils; vegan ranch cucumbers (I briefly ponder WTF a non-vegan cucumber is but realise that it is the ranch dressing that is vegan); roasted asparagus with mint; roasted mushrooms and fingerlings (no idea); rosemary vinaigrette on the side—--a lot of over-complication and fuss for a bowl of seasonal vegetables. On the walk back toward the World Cafe and find myself at the Good Karma Cafe. I order an organic double espresso and sit outside watching the traffic go by until sound check. Back at the stage door there is another endless train rumbling overhead.
+** DONE The Horseshoe Tavern, Toronto.
+:PROPERTIES:
+:EXPORT_FILE_NAME: the-horseshoe-tavern
+:EXPORT_DATE: 2022-04-13
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Kris is very excited to be standing on the same square meter that was occupied for an hour or so by one Keith Richards on the evening of June 4, 1997 when the Rolling Stones decided to play an impromptu show at the Horseshoe Tavern during rehearsals for the Bridges To Babylon Tour.
+
+We can just about fit on to the Horseshoe’s stage and after the show at the Vic there needs to be a bit of conscious body awareness to avoid tripping over a guitar lead, or even your own feet, both of which I manage to do during the first song. Clearly the Rolling Stones gave the horn section and the backing singers the night off when they played here. I like to think they just cabbed up here from a rehearsal room with the drum kit and a couple of Telecasters.
+
+I have a theory that in all the best rock and roll rooms you can see the bar from the stage; the Barrowland Ballroom, the original Marquee Club, the Astoria (and most of the venues we have been in on this tour which might explain why the shows have been so great!). From the square meter that Ronnie Wood occupied I can see over the heads of the audience into the long Western Bar in the front room. It looks like my kind of place. I’d like to think that Keith Richards and Ron Wood took the opportunity to sit there after the show for a glass of bourbon.
+
+It is a hot one on stage and while changing out of my sweaty clobber after we have played to the enthusiastic bunch gathered in the back room I find 10 Canadian dollars left from my per deums in my pocket. The bar has cleared but the barman is still serving. Ten bucks will get me a shot of Makers Mark with two dollars left over for a tip. We will cross back into the USA tonight so if I don't spend it now it will still be in my pocket when I get back to Glasgow. It has to be done.
+
+This is only the second time time since we arrived  that I have sat at a bar and had a drink in company—even if the only company here is the barman. It feels good to have a bar under my elbow so I order a second drink to pass the time before we break for the border and now out of the local currency I try to pay with plastic, but the barman pours this one on the house. He seems to intuit that I don’t feel the need for conversation and leaves me to drink in silence, which suits me just fine.
+** DONE Chicago
+:PROPERTIES:
+:EXPORT_FILE_NAME: chigaco
+:EXPORT_DATE: 2022-04-11
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Monday nights can be a challenge: expectations need to be lowered on Mondays and after the reception in Minneapolis the Vic Theater looms as a potentially daunting prospect. The sun in shining when we arrive and the city is alive. Belmont Boulevard is full of purposeful people with coffee in hand. Trains run minutes apart over the alley behind stage door. Chicago is gritty and real. (No scientologists to be seen in this part of the world: goopy, west coast ideas like Dianetics are gonna get short shrift from these people.)
+
+The Vic has lost none of its charm. Everyone who works here from the cleaner who lets us in early to use the bathrooms and the showers after the overnight drive from Minneapolis to Dave the house monitor engineer is no-bullshit, super professional. Backstage is filled with cool stuff (fairground antiques, vintage video arcade games, a piano that works with a Bontempi Chord Organ on top of it). The walls are lined with framed posters for previous shows. Jeff Tweedy features predominantly in the posters and I picture him at the piano or maybe even the Bontempi after one of his shows entertaining a packed backstage.
+And any concerns about hangover from the weekend or worries about crap to be dealt with on Tuesday morning dampening the atmosphere turn out to be idiotic. The place is packed and noisy and raucous. I manage to remove a large part of my thumbnail in a misguided, mistimed Townsend windmill near the start of the set. It hurts but, fuck it, bring it on—this is going to be a good night. A fabulous night.
+
+Back among the memorabilia at 10.45 there is elation in the room. I send out to the liquor store across the road for a bottle of Woodford Reserve while I nurse my hand. When I comes back I can’t get anyone to take any money for it. Justin cracks open his first beer of the tour. Nobody thinks to fire up the Bontempi though.
+
+** DONE Saint Paul, Minnesota
+:PROPERTIES:
+:EXPORT_FILE_NAME: saint-paul-minnesota
+:EXPORT_DATE: 2022-04-10
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Another Sunday in a deserted city. The Fitzgerald Theater sits in the heart of downtown Saint Paul not far from the capitol building and everything around is closed. Even the venerable Mickey’s Diner open 24/7 since 1937 is shut. There are a lot of churches—God seems to beget factions. A giant building across from the Fitzgerald advertises that the Scientologists have invested heavily here, presumably in an attempt to help the people of Saint Paul get over their schisms about conceptions of God and unite behind belief in the Truth of a third rate space opera written in the 1950’s by a fourth rate pulp fiction writer turned con man, now peddled by two contemporary con men, Tom Cruise and David Miscavige. As Andy once memorably proclaimed, in the land of no brain the man with half a brain is king.
+
+But none of this should be taken as a slight on the people of the Twin Cities. The Fine Line was the first venue we ever sold out in the US and every show we have ever played here has been memorable; 7th Street Entry, First Avenue, the Orpheum. (Not forgetting a bizarre evening at the Target Center with Oasis and The Meat Puppets, although that is memorable for different reasons.)
+
+Our night in The Fitzgerald adds another to that list of unforgettable shows. This was one of the the warmest and most welcoming audiences we have played to anywhere in the world. The elation shared in the theater during the show becomes even more poignant as we sit post-Covid alone backstage in the Fitzgerald. There is nothing for it but to load the bus with guitars amps and beer and set of for Chicago. Someone scrolls through the satellite channels and starts watching Scream. The mood in the bus slowly sinks into torpor and thoughts drift to the hospitality of old friends glimpsed through the lights tonight and memories many great nights spent in the Twin Cities after shows. Better times, and another tour beckons next summer: We’ll tak that cup o’ kindness yet.
+** DONE Goldy’s. Breakfast. Everyday.
+:PROPERTIES:
+:EXPORT_FILE_NAME: goldys-breakfast-everyday
+:EXPORT_DATE: 2022-04-04
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The indicators are good: one block off the main drag, just across from the Capitol building. Inauspicious looking, no view in from the outside. I head in and take the last remaining seat at the counter. Two types of ketchup, four different hot sauces and Goldy’s house seasoning are lined up a carousel at each seat. Bodes well.
+
+The place is small, maybe 50 seats but there are about a dozen staff; a guy at the door to greet, three behind the counter pouring coffee and walking out the orders from the tiny kitchen where four guys are doing everything to order. There are two others at separate stations, one for teas and other beverages and one for toast. The owners move around fetching stock from the back room keeping the operation running. I order one of the house specials, Andalusian eggs; Asparagus, chorizo, tomatoes and eggs done house style.
+
+While they put this together in the kitchen I notice a sign on the wall says that unattended children will be given an espresso and a free puppy. I am struggling to discern the humour in this—is it intentionally facetious? Seems unlikely: anyone born south-west of New Jersey can be relied to be stalwartly un-ironic and we are a long way south-west of New Jersey.
+
+Ten minutes later my coffee cup has been topped-up at least ten times and my Andalusian eggs comes out from the kitchen. Asparagus, chorizo, tomatoes and two fried eggs. On a plate. The guy next to me spreads Goldy’s hot sauce on his sourdough toast. I take his lead and do the same. Fantastic. Best breakfast of the tour so far.
+** DONE Western or English dressage
+:PROPERTIES:
+:EXPORT_FILE_NAME: western-or-english-dressage
+:EXPORT_DATE: 2023-01-01
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The first mission of the day when Gary parks the bus in the morning, in fact the only mission of the day prior to sound check at 5 pm, is to find a good spot for brunch. Berkeley looks promising. I set off from the bus down Shattuck Avenue and every third door is a coffee shop. Presented with such a excess of places to eat eggs I ask a security guard outside a bank where would be a good place to have breakfast. “Sit down?” he comes straight back with. Sure, I say. 
+“Julia’s” he replies without hesitation and then, gesturing down University Avenue qualifies with a vague, “Or there are some places down there”. Figuring that this guy probably has breakfast in Julia’s before work every day I decide that this is surely the place to go for eggs and coffee. I look it up on my phone and it’s a five minute walk, a couple of blocks off the main drag of WeWork lattes. Looks perfect.
+
+A short stroll in the emerging morning sun and I am standing out front of 2315 Durant. This is not the local diner I was expecting—I am outside a fantastic, towering American Gothic building with a brass plaque announcing it as the Berkeley Woman’s Club, built 1927. But sure enough a board on the sidewalk  advertises Julia’s Restaurant on the second floor. It looks like a very private kind of establishment, the kind of place you might need to card into but, fuck it, the place came recommended; I figure their there must be a seriously cool nineteen twenties diner up there. I tailgate through the imposing diamond leaded doors, stroll confidently past the concierge with a polite ‘how are you today’ and head up a very grand staircase to the second floor. It takes me a moment to locate the entrance to the eatery off the vast landing. The maître d'hôtel, Karel, leads me to a table laid out for silver service and pours water into a cut crystal glass. Everyone else in Julia’s looks like they are here to audition for the lead role in a John Huston bio-pic. The conversation between the two Ernest Hemingway lookalikes at the next table is about their ranches and their preferred styles of dressage. (I now know that there are two styles of dressage popular in this part of the world: Western and English.)
+
+A beet salad, a Spinach, blue-cheese and cherry tomato frittata and a black coffee later (courtesy of Executive Chef Fabrice Macron) I amble back to the bus with my wallet fifty bucks lighter digesting this morning’s repast. (A damn good brunch—--Fabrice knows what he’s doing.)  Two things are puzzling me;
+1. Had that guy outside the bank even eaten there?
+2. What was the kind of synchronicity at play here that means these kinds of things have a distinct tendency to happen on mornings when one’s appetite for the surreal has has been piqued by, for example, drinking a little too much Woodford Reserve on an overnight drive out of LA?
+** DONE A strip on its uppers
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-strip-on-its-upppers
+:EXPORT_DATE: 2022-03-29
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Sunset Strip seems to be on it’s uppers these days. Chateau Marmont is boarded up. It is hard to imagine the beautiful people of Los Angeles and environs on the corner of Sunset and Larrabee clamouring to catch a glimpse of Johnny Depp and company outside The Viper Room.  The Roxy and the Rainbow persist and don’t seem to have changed in the slightest since we were last here in 1992 but there are no tourists taking photos out front and The Rainbow’s sign now cowers below a 40ft floodlight advert for some useless shit. There is a planning application to upgrade the billboard to a giant LED screen posted on the sidewalk.
+Nevertheless, a certain type of person still seems to get a kick out of cruising the strip as it gets dark in a vehicle that costs more than a family home in Glasgow—a guy walking his Dalmatian is almost run over on the crosswalk by a Bentley Bentayga. Obscenities are exchanged while the dog looks on unimpressed. There are no other witnesses.
+** DONE Crescent Ballroom, Phoenix Arizona
+:PROPERTIES:
+:EXPORT_FILE_NAME: crescent-ballroom-phoenix-arizona
+:EXPORT_DATE: 2022-03-27
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+There is a beautiful softness to the morning desert light.
+The Crescent Ballroom is on one of the few downtown blocks not sacrificed to developers and on a Sunday morning the anonymous corporate buildings are deserted. Without any human scale and modelled in the low sun the standard downtown vernacular of steel and glass is a stark collection of glittering, city block sized sculptures.
+
+The Crescent Ballroom is more down to earth; one storey with tables out front and a parking lot at the back. Form follows function: people meet and eat and drink here. Through the bar is a classic, no-frills, black box, rock-and-roll room where music is performed most nights. A bottle of Lagavulin behind the bar catches my eye—someone here knows their whisky. The dressing room is decorated with a fabulous collection of hip Americana.
+
+Around mid-day the city starts to rouse and Phoenicians emerge from apartment blocks north of downtown onto the streets with their dogs and their kids. In places where the sun is guaranteed to beat down every day of the year maybe there is a natural lack of urgency.
+
+After sound check the we get fed from the venue cantina. The green salsa is the best I have ever tasted. A couple of hundred turn up to cheer us on through our set and still jet-lagged we just about rise to the occasion. The quality of the salsa served at The Crescent surely added to everyone’s enjoyment of the evening. When we return to dressing room a ceramic deer’s head has mysteriously detached from the wall and lies in pieces on the floor, We get back on the bus and head across the desert back to Los Angeles.
+
+** DONE Chiriaco Summit, 5 am.
+:PROPERTIES:
+:EXPORT_FILE_NAME: chiriaco-summit-5am
+:EXPORT_DATE: 2022-03-27
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Gary pulls the bus off I-10 to fuel up and the combination of jet lag and the cessation of the comforting sound of our wheels on the asphalt rouses me from my bunk. The sun is rising over the desert and the sky looks like a set designer’s painting. Huge trucks that could be on this road for 2000 miles in a straight line to the Florida coast roll past. There is no sign of human habitation other than the fuel stop and the road. I might as well be on Mars.
 
 ** DONE Chandler no more, Bukowski no more.
 :PROPERTIES:
@@ -129,6 +295,56 @@ Mel’s, everyone in Hollywood, actually an actor reading from a script for our
 benefit? Sleep deprivation drives us back to the relative safety of the Holiday
 Inn Suites.
 
+** DONE LAX to Hollywood
+:PROPERTIES:
+:EXPORT_FILE_NAME: lax-to-hollywood
+:EXPORT_DATE: 2022-03-25
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+The driver that picks us up at LAX to deliver us to the hotel at Hollywood and Highland—the centre of very deepest circle of  Los Angeles—is a gentle spoken bear of a man named, appropriately enough, Virgil. He swaps his cowboy hat for an ominously Trumpian red baseball cap as he gets into the driving seat but I can't see the front of it as he drives. Virgil has his phone guide the Econoline via a commodious route through the steam-rollered smorgasbord of Los Angeles culture on freeways that take us past the The Getty and Universal City.
+Like all real southern gentlemen Virgil engages effortlessly in conversation. I am riding shotgun—in the conversation seat—but just off the plane I haven’t yet got used to tempering my accent for stateside consumption and out of necessity the exchange ends up being pretty much one-way. By the time we pull of the Hollywood freeway I know a lot about Virgil.
+
+Virgil is from rural Louisiana. He was born in 1957, worked as a truck driver until he retired in 2007 on health grounds. Since then he has recovered from two consecutive cancers each of which his doctors told him would kill him. But he told those doctors he would beat those cancers, and he did. He just started work again as a limo driver (which maybe explains why he hasn't had Samantha SatNav's soothing voice direct him on the much shorter route through downtown LA). He had his right knee done last year by the same orthopaedic surgeon that fixed Shaq O’Neal. He has just discovered two brothers he didn’t know he had and is planning to ride his new Indian bike on a four day road trip clear across the continent this summer to Maryland to meet them for the first time.  He doesn’t like flying. (But who does—-- and what kind of right-minded person would choose to fly over spending four days on the open road through deserts and over mountains on their Indian motorcycle?). Once we pull into the hotel car park Virgil swaps his hats again. I forgot to look to see what was embroidered on the front of the baseball cap. I’m sure there must be a basketball team in Louisiana who play in red. Maybe not. Maybe some MAGA people are real human beings.
+ 
+** DONE Tip the world over on its side and everything loose will land in Los Angeles.
+:PROPERTIES:
+:EXPORT_FILE_NAME: tip-the-world-over-on-its-side-and-everything-loose-will-land-in-los-angeles
+:EXPORT_DATE: 2022-03-25
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+In that   weird liminal space—11 hours, 9000 meters above an ocean moving at nearly 1000kmh kilometres an hour in an intercontinental ballistic people carrier, after hours of waiting and moving through the non-spaces of airport terminals, now travelling back through the day to arrive not long after leaving, there seems to be nothing to think, nothing to consider except how to stay calm stuck in the same seat for half a day and the sheer implausibility of a 250 tonne airliner with three hundred people on board taking to the skies.
+
+Back to the United States of America, after so long. Back to Los Angeles (the home of the sadly missed A&M records and still, somehow, Del Amitri’s spiritual home in the US) to get on a bus for a month of shows that will take us across the continent: from Los Angeles into the desert to Phoenix, north to Berkeley and Seattle and on to Vancouver; over the mountains to Colorado and back north to Milwaukee; through the mid-west via Toronto to the east coast, to Vermont and New York City, North Carolina and Atlanta, and finally to western Pennsylvania and Ohio.
+
+If Herb Alpert and Gerry Moss (and Al Cafaro, Brad and Barbara and Al and all those lovely people at A&M) gave us a spiritual US home in Los Angeles, Del Amitri’s heart was stolen on the road: in a car park in Louisville Kentucky, under a freeway in Jackson Mississippi, on Daytona Beach; at Shank Hall, the Double Door, the 9:30 Club, St. Andrews Hall (even at Rome 90 where it wasn't clear if there was actually anyone in the audience at the show). It was stolen by all the people who come to see us at concerts in Boulder, in New York City, in Dallas and in New Orleans, in Minneapolis and in Chicago (remembering of course dear Ross Greirson, gone but not forgotten) and the hundred other towns we made it to. 
+
+So much seems to have changed since we recorded Fatal Mistakes (never mind since we last toured in the US). From where I am sat for the next 11 hours it is hard not to gaze out into the sky and wonder about the world nine kilometres below, a world that seems to be crumbling in humanity’s collective hands.
+
+Comprehending the complex aerodynamics that are keeping the 250 tonnes in the air at the moment starts to look like a puny challenge in the face of trying to make sense of the complacent inhumanity to fellow beings and the willful negligence of the planet that twenty first century homo sapiens seems capable of. Disaster capitalism prevails: nationalist wars, ethnic cleansing, disease, poverty, global warming continue to bring catastrophe to countless millions while the super rich bicker amongst themselves and thrive.
+
+And when intelligent beings think and plan and sustain war it is almost impossible no to sink into cynicism about politics and progress towards a peaceful and equitable society. 
+
+On one level it feels complacent, or even complicit to be business-as-usual in the face of what is going down around us (not that anything actually is ‘business as usual’ for any of us at the moment—except perhaps for the Musks and Bezoss of the planet). 
+
+We have crossed an ocean. Nine kilometres below I can see a mind-blowingly enormous glacier. Temperatures at the south pole were 50 degrees above average last week. The plane I am flying in is a direct cause of that glacier melting. But would it make any difference if I stayed at home? Does the carbon footprint of men who spend billions to fly in to space for shits and giggles make a transatlantic flight to work for a month on the other side of the planet OK?
+
+If, as the cliche goes, travel broadens the mind (why does Jeff Bezos have such a tiny head then?) then touring focuses your efforts. If nothing else touring is grounding. So much effort from so many people goes into making a show 9000 miles from home even happen.
+
+There is only one thing that you have to get right: that evening’s show. When it is right and we get to play and there are people there to listen to the music we make, something happens. Something that makes me glad to be alive. Glad to be alive in the most self-centred, solipsistic sense, sure, but also profoundly glad to be with people. People I know and people I don’t know and might never meet again, people who might hold different beliefs from me about almost everything in the world apart from what is going on in that room for a brief couple of hours. Collectively, the pessimism seems to ease (even if the music might be openly pessimistic—watching The Fall night on a brief Scottish tour was a visceral and life-affirming experience; the two classic Joy Division records are, because of and not in spite of their bleakness, like consoling old friends that I have conversed with for forty years). The cloud of disaster seems marginally more remote for a while. 
+
+I always felt reassured that devoting my labour to writing and playing music was at least a way to disengage with ‘the system’ and at best, by disengaging, a form of protest even if the music Del Amitri make is not, on the surface at least, protest music. Maybe it would be better if all music was overtly political but somehow for me that breaks the spell: ``You are either with us or against us''---cynicism is back in the room. There are times and places where there is no choice but to be militant, to call for action and to take action against what is unquestionably immoral and wrong. Those times and places seem more urgent and more frequent now that I have ever known.
+
+And in the face of this we bring our little roadshow to travel across that implausibly great and implausibly flawed continent that is North America. Not because we can’t think of anything better to do in the face of the shit that is flying around us all, but to feel alive and to share that feeling. And because we love it.
+
+** DONE Get back on the bus                                           :dels:
+:PROPERTIES:
+:EXPORT_FILE_NAME: never-say-never
+:EXPORT_DATE: 2022-03-25
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
 
 * Footnotes
 * Local Variables                                           :noexport:

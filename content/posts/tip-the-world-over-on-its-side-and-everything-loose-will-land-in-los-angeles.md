@@ -2,13 +2,10 @@
 title = "Tip the world over on its side and everything loose will land in Los Angeles."
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T11:59:47+01:00
+lastmod = 2023-05-25T21:39:44+01:00
+categories = ["dels", "Journal"]
 draft = false
-weight = 2002
-[menu]
-  [menu.main]
-    weight = 2002
-    identifier = "tip-the-world-over-on-its-side-and-everything-loose-will-land-in-los-angeles-dot"
+weight = 2019
 +++
 
 In that   weird liminal space—11 hours, 9000 meters above an ocean moving at nearly 1000kmh kilometres an hour in an intercontinental ballistic people carrier, after hours of waiting and moving through the non-spaces of airport terminals, now travelling back through the day to arrive not long after leaving, there seems to be nothing to think, nothing to consider except how to stay calm stuck in the same seat for half a day and the sheer implausibility of a 250 tonne airliner with three hundred people on board taking to the skies.
