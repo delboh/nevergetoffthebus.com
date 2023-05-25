@@ -2,14 +2,10 @@
 title = "Chandler no more, Bukowski no more."
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T21:39:44+01:00
+lastmod = 2023-05-25T21:55:05+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2017
-[menu]
-  [menu.main]
-    weight = 2017
-    identifier = "chandler-no-more-bukowski-no-more-dot"
 +++
 
 The nearest place to the hotel to eat is Mel’s Diner. Buddy, Brian and I drift

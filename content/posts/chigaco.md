@@ -2,14 +2,10 @@
 title = "Chicago"
 author = ["Ebo H"]
 date = 2022-04-11
-lastmod = 2023-05-25T21:39:41+01:00
+lastmod = 2023-05-25T21:55:03+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2010
-[menu]
-  [menu.main]
-    weight = 2010
-    identifier = "chicago"
 +++
 
 Monday nights can be a challenge: expectations need to be lowered on Mondays and after the reception in Minneapolis the Vic Theater looms as a potentially daunting prospect. The sun in shining when we arrive and the city is alive. Belmont Boulevard is full of purposeful people with coffee in hand. Trains run minutes apart over the alley behind stage door. Chicago is gritty and real. (No scientologists to be seen in this part of the world: goopy, west coast ideas like Dianetics are gonna get short shrift from these people.)

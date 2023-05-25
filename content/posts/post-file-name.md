@@ -2,14 +2,10 @@
 title = "Philadelphia"
 author = ["Ebo H"]
 date = 2022-04-14
-lastmod = 2023-05-25T21:39:41+01:00
+lastmod = 2023-05-25T21:55:02+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2008
-[menu]
-  [menu.main]
-    weight = 2008
-    identifier = "philadelphia"
 +++
 
 The World Cafe is surrounded on two sides by elevated streets. The stage door is under an elevated rail track and mile long freight trains with graffiti covered containers stacked two high on the flat-beds clatter past at walking pace fifty feet overhead.

@@ -2,14 +2,10 @@
 title = "New York City"
 author = ["Ebo H"]
 date = 2023-01-01
-lastmod = 2023-05-25T21:39:40+01:00
+lastmod = 2023-05-25T21:55:01+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2005
-[menu]
-  [menu.main]
-    weight = 2005
-    identifier = "new-york-city"
 +++
 
 The famous skyline has been anonymized by the towers of glass that rise above Hudson Yards leaving only a glimpse of the needle on top of the Empire State building visible as we drive in from the west but the heart still beats faster as the city approaches.

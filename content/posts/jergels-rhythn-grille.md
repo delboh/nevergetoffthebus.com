@@ -2,14 +2,10 @@
 title = "Jergel's Rhythm Grille"
 author = ["Ebo H"]
 date = 2022-04-23
-lastmod = 2023-05-25T21:39:39+01:00
+lastmod = 2023-05-25T21:55:00+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2002
-[menu]
-  [menu.main]
-    weight = 2002
-    identifier = "jergel-s-rhythm-grille"
 +++
 
 Jergel’s Rhythm Grille might as well be located on its own planet. It is 28 degrees and getting hotter, but according to the locals it was snowing two days previously which might explain why the car park surrounding the place is lined with trees bursting with luxurious yellow blossom that gets visibly more abundant as the day wears on and the temperature goes up. Jergel’s is big, plush club with private rooms and a cigar and whiskey bar behind the stage. We are aware that this is the one show on the tour that hasn’t sold well, at least in relation to its capacity. As a courtesy I want to make sure that the manager A. J. knows that we know this and A. J. explains that they have problems selling concert tickets generally because touring bands are requesting that ticket holders are vaccinated against Covid and hardly anyone in western Pennsylvania is. This takes a second to rationalise—we are in heartland, rust belt United States and liberal expectations need to be reigned in here. I can’t formulate a coherent reply and nod vaguely.

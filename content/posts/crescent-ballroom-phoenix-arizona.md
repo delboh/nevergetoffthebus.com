@@ -2,14 +2,10 @@
 title = "Crescent Ballroom, Phoenix Arizona"
 author = ["Ebo H"]
 date = 2022-03-27
-lastmod = 2023-05-25T21:39:43+01:00
+lastmod = 2023-05-25T21:55:04+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2015
-[menu]
-  [menu.main]
-    weight = 2015
-    identifier = "crescent-ballroom-phoenix-arizona"
 +++
 
 There is a beautiful softness to the morning desert light.

@@ -2,14 +2,10 @@
 title = "Chapel Hill, North Carolina"
 author = ["Ebo H"]
 date = 2022-04-20
-lastmod = 2023-05-25T21:39:39+01:00
+lastmod = 2023-05-25T21:55:01+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2003
-[menu]
-  [menu.main]
-    weight = 2003
-    identifier = "chapel-hill-north-carolina"
 +++
 
 Into the south, proper. North Carolina is lush and verdant. The skies are cloudless and the temperature is perfect. This feels like a different continent from Virginia, never mind New York. I set off from the strip mall where the Carrboro Arts Center languishes in the direction of downtown Chapel Hill. Walt’s Grill is en route and is quoted on the wire as a happening place for southern soul food. I stumble across it, but it is not what I was expecting. It stands on its own on a side street and at a first glance I mistakenly reckon that the building has been long abandoned. But while I am standing in the road in front of Walt’s taking a photo of the place, the door cracks open and a voice, which I want to presume belonged to Walt himself, barks “You alright boy?”. This might conceivably have had friendly intentions but the effect was not to entice me to step inside for lunch. I reply with the warmest “I’m doing just fine, thank you” I can muster and head on in to Chapel Hill.

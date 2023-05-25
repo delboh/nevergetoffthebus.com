@@ -2,14 +2,10 @@
 title = "Goldy’s. Breakfast. Everyday."
 author = ["Ebo H"]
 date = 2022-04-04
-lastmod = 2023-05-25T21:39:42+01:00
+lastmod = 2023-05-25T21:55:04+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2012
-[menu]
-  [menu.main]
-    weight = 2012
-    identifier = "goldy-s-dot-breakfast-dot-everyday-dot"
 +++
 
 The indicators are good: one block off the main drag, just across from the Capitol building. Inauspicious looking, no view in from the outside. I head in and take the last remaining seat at the counter. Two types of ketchup, four different hot sauces and Goldy’s house seasoning are lined up a carousel at each seat. Bodes well.

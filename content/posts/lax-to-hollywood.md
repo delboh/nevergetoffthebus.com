@@ -2,14 +2,10 @@
 title = "LAX to Hollywood"
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T21:39:44+01:00
+lastmod = 2023-05-25T21:55:05+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2018
-[menu]
-  [menu.main]
-    weight = 2018
-    identifier = "lax-to-hollywood"
 +++
 
 The driver that picks us up at LAX to deliver us to the hotel at Hollywood and Highland—the centre of very deepest circle of  Los Angeles—is a gentle spoken bear of a man named, appropriately enough, Virgil. He swaps his cowboy hat for an ominously Trumpian red baseball cap as he gets into the driving seat but I can't see the front of it as he drives. Virgil has his phone guide the Econoline via a commodious route through the steam-rollered smorgasbord of Los Angeles culture on freeways that take us past the The Getty and Universal City.

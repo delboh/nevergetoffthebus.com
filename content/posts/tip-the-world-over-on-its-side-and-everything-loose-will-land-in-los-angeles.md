@@ -2,7 +2,7 @@
 title = "Tip the world over on its side and everything loose will land in Los Angeles."
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T21:39:44+01:00
+lastmod = 2023-05-25T21:55:06+01:00
 categories = ["dels", "Journal"]
 draft = false
 weight = 2019
