@@ -13,7 +13,7 @@
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 
-* Never get off the bus                                      :@dels:@Journal:
+* Never get off the bus                                                :dels:
 ** DONE Cleveland, Ohio
 :PROPERTIES:
 :EXPORT_FILE_NAME: cleveland-ohio
@@ -40,7 +40,7 @@ In the end a respectable 150 turn up to watch us play. Not enough to make Jergel
 :PROPERTIES:
 
 :EXPORT_FILE_NAME: summersville-west-virginia
-:EXPORT_DATE: 2023-01-01
+:EXPORT_DATE: 2022-04-23
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
@@ -80,7 +80,7 @@ Not what we expected on a Tuesday night in Virginia.
 ** DONE New York City
 :PROPERTIES:
 :EXPORT_FILE_NAME: new-york-city
-:EXPORT_DATE: 2023-01-01
+:EXPORT_DATE: 2022-04-18
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
@@ -92,7 +92,7 @@ From Union Square we head out on the subway to PS1, MoMA’s fabulous contempora
 ** DONE The Egg
 :PROPERTIES:
 :EXPORT_FILE_NAME: post-file-name
-:EXPORT_DATE: 2023-01-01
+:EXPORT_DATE: 2023-04-16
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
@@ -187,7 +187,7 @@ Ten minutes later my coffee cup has been topped-up at least ten times and my And
 ** DONE Western or English dressage
 :PROPERTIES:
 :EXPORT_FILE_NAME: western-or-english-dressage
-:EXPORT_DATE: 2023-01-01
+:EXPORT_DATE: 2022-03-30
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:

@@ -2,8 +2,8 @@
 title = "Sommerville Theater, Boston"
 author = ["Ebo H"]
 date = 2022-04-15
-lastmod = 2023-05-25T21:55:02+01:00
-categories = ["dels", "Journal"]
+lastmod = 2023-05-25T22:10:09+01:00
+tags = ["dels"]
 draft = false
 weight = 2007
 +++

@@ -2,8 +2,8 @@
 title = "Chapel Hill, North Carolina"
 author = ["Ebo H"]
 date = 2022-04-20
-lastmod = 2023-05-25T21:55:01+01:00
-categories = ["dels", "Journal"]
+lastmod = 2023-05-25T22:10:07+01:00
+tags = ["dels"]
 draft = false
 weight = 2003
 +++
