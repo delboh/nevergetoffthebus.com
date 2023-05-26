@@ -9,11 +9,21 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: post-file-name
 :EXPORT_DATE: 2023-01-01
-:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_HUGO_MENU:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+
 * Never get off the bus                                                :dels:
+** DONE template test
+:PROPERTIES:
+:EXPORT_FILE_NAME: template-test
+:EXPORT_DATE: [2023-05-26 Fri 17:00]
+:END:
+template test
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** DONE Cleveland, Ohio
 :PROPERTIES:
 :EXPORT_FILE_NAME: cleveland-ohio
@@ -345,7 +355,6 @@ And in the face of this we bring our little roadshow to travel across that impla
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
-
 * Footnotes
 * Local Variables                                           :noexport:
 org-hugo-footer: "\n\n[//]: # \"with love from the end of the world\"" End:
