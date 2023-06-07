@@ -5,25 +5,55 @@
 
 #+author: Ebo H
 
-* Post template                                                    :noexport:
-:PROPERTIES:
-:EXPORT_FILE_NAME: post-file-name
-:EXPORT_DATE: 2023-01-01
-:EXPORT_HUGO_MENU:
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
-:END:
-
-[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
-
 * Never get off the bus                                                :dels:
-** DONE template test
-:PROPERTIES:
-:EXPORT_FILE_NAME: template-test
-:EXPORT_DATE: [2023-05-26 Fri 17:00]
-:END:
-template test
+** TODO The Last Summer On Earth
+With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
 
-[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+the prospect of living on a bus for seven weeks
+and playing thirty odd shows across the USA certainly has its appeal
+
+the tour will take us to some exotic places; Tuscaloosa, Alabama. Mankato Minnesota. Nampa, Idaho. Indio, California. We play at Red Rocks, Colorado and the Greek Theater in Los Angeles.
+
+the main act is The Barenaked Ladies who are the organisers of this undertaking. They have run similar ventures before and by all accounts they run a cool operation and take pains to look after everyone on board. 
+
+but we will be on stage first as part of a three band bill
+
+it is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. 
+
+There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues with the trucks at load in time---8am.
+
+Sound check at 5pm with show time at 7. We will be off stage by 7.40.
+
+There will be a lot of downtime. 
+
+Time to write a novel, or learn a language. Or something.
+
+But my experience is that it is hard to imagine settling down to anything constructive on show days even if you have a nice hotel room at your disposal until soundcheck.
+
+On the back lots of what are euphemistically referred to as `sheds' (or even `boutique sheds' in the business) the preciousness of time as a  commodity is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling long the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
+
+But we have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves. Which was not the mindset when we toured in the nineties.
+
+A large part of my schedule then was built around whisky consumption which took part of a large part of the day, one way or another.
+
+It seemed big and clever (and I had a lot of fun, probably much more than I even remembered at the time). But even if the spirit took me, we are not going to be in places where partying after the shows will be the order of the day.  
+
+Maybe this time I will find time to write that novel.
+
+
+** DONE Day One
+Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
+
+It was hot and there was no shade on the stage. The sinking sun was directly in our faces which makes sense I suppose: if the sun set behind the stage it would have been in the audiences eyes.
+
+Dan from Semisonic described being on stage in the sunshine as mysteryless. But our concern turned out not to be the lack of mystery but avoiding heat exhaustion. Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
+
+We are, as Buddy never tires of telling us, living inside the rainbow.
+
+
+
+
+
 ** DONE Cleveland, Ohio
 :PROPERTIES:
 :EXPORT_FILE_NAME: cleveland-ohio
@@ -31,7 +61,7 @@ template test
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-Cleveland, early on a Sunday morning. I feel fully recovered and in denial that this is the end of the road. The final venue is another damn supper club, The Music Box. There is a decent looking Sunday brunch on offer there but distressingly this will be accompanied either by a Doobie Brothers or a Crosby Stills Nash and Young tribute band depending on whether one chooses to eat upstairs or downstairs in the club. There is a long day ahead and this does not appeal to me as the most relaxing way to start it off. We are just across the river from The Flats where there seem to be a bunch of decent places to sit and chill with a coffee and a decent plate of food. The river taxi that would take me the 200m across the Cuyahoga River doesn’t run on Sundays but according to my phone it should only take 20 minutes to walk. Unfortunately the pedestrian bridge to downtown is shut for repairs and after forty minutes of going round in circles I am high up on the Cleveland Memorial Shoreway pretty much directly over where I started. I eventually make it across. It has taken me an hour to traverse the 200m. I find a shady table a chi-chi eaterie overlooking the river but the vibe is somewhat undermined by the fact that there are thousands of dead and dying fish floating on the surface. The canoeists and the scullers that pass by seem unperturbed by this but I have to consciously suppress being really creeped out—I would be utterly shocked to see this in the Clyde, or even in the Thames.
+Cleveland, early on a Sunday morning. I feel fully recovered and in denial that this is the end of the road. The final venue is another damn supper club, The Music Box. There is a decent looking Sunday brunch on offer there but distressingly this will be accompanied either by a Doobie Brothers or a Crosby Stills Nash and Young tribute band depending on whether one chooses to eat upstairs or downstairs in the club. There is a long day ahead and this does not appeal to me as the most relaxing way to start it off. We are just across the river from The Flats where there seem to be a bunch of decent places to sit and chill with a coffee and a decent plate of food. The river taxi that would take me the 200m across the Cuyahoga River doesn’t run on Sundays but according to my phone it should only take 20 minutes to walk. Unfortunately the pedestrian bridge to downtown is shut for repairs and after forty minutes of going round in circles I am high up on the Cleveland Memorial Shoreway pretty much directly over where I started. I eventually make it across. It has taken me an hour to traverse the 200m. I find a shady table a chi-chi eaterie overlooking the river but the vibe is somewhat undermined by the fact that there are thousands of dead and dying fish floating on the surface. The canoeists and the scullers that pass by seem unperturbed by this but I have to consciously suppress being really creeped out--—I would be utterly shocked to see this in the Clyde, or even in the Thames.
 
 I can’t face the hour's walk back so after eating I call a taxi to take me back to the other side of the river. He gets lost in the roads under the freeway when his sat nav tires to direct him over the closed bridge. When I finally get back to the other side I find out that Jim, Buddy and Brian have all fallen foul of what appears to be the same thing that almost laid me low during the encore at the Carrboro Arts Center. Everybody is on their feet and putting a brave face on it. We can cover for Buddy or Brian if needs be, but we can’t do much without a drummer. Kris is terrified he’ll catch it and come down with it before the flight tomorrow (understandable—no one wants to spend a seven hour flight being ill) and is keeping his distance. There is nothing to be done except wait and see what the state of play is at showtime. Everyone gets through the sound check and by early evening it looks like everyone is going to make it to the stage one way or another.
 
@@ -355,6 +385,3 @@ And in the face of this we bring our little roadshow to travel across that impla
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
 And so it goes. Never say never. Back to the interstates again after all these years to do a month of shows.
-* Footnotes
-* Local Variables                                           :noexport:
-org-hugo-footer: "\n\n[//]: # \"with love from the end of the world\"" End:
