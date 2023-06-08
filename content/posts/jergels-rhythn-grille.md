@@ -2,7 +2,7 @@
 title = "Jergel's Rhythm Grille"
 author = ["Ebo H"]
 date = 2022-04-23
-lastmod = 2023-05-25T22:10:07+01:00
+lastmod = 2023-06-07T03:37:30+01:00
 tags = ["dels"]
 draft = false
 weight = 2002

@@ -2,7 +2,7 @@
 title = "LAX to Hollywood"
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-05-25T22:10:12+01:00
+lastmod = 2023-06-07T03:37:34+01:00
 tags = ["dels"]
 draft = false
 weight = 2018

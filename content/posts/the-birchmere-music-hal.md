@@ -1,7 +1,7 @@
 +++
 title = "The Birchmere Music Hall"
 author = ["Ebo H"]
-lastmod = 2023-05-25T22:10:08+01:00
+lastmod = 2023-06-07T03:37:31+01:00
 tags = ["dels"]
 draft = false
 weight = 2004

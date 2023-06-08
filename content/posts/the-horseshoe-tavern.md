@@ -2,7 +2,7 @@
 title = "The Horseshoe Tavern, Toronto."
 author = ["Ebo H"]
 date = 2022-04-13
-lastmod = 2023-05-25T22:10:09+01:00
+lastmod = 2023-06-07T03:37:32+01:00
 tags = ["dels"]
 draft = false
 weight = 2009

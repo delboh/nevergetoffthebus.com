@@ -2,7 +2,7 @@
 title = "A strip on its uppers"
 author = ["Ebo H"]
 date = 2022-03-29
-lastmod = 2023-05-25T22:10:11+01:00
+lastmod = 2023-06-07T03:37:33+01:00
 tags = ["dels"]
 draft = false
 weight = 2014

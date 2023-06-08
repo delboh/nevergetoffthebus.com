@@ -6,24 +6,14 @@
 #+author: Ebo H
 
 * Never get off the bus                                                :dels:
-** DONE The Last Summer On Earth
-With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
 
-The prospect of living on a bus for seven weeks
-and playing thirty odd shows across the USA certainly has its appeal.
+** TODO Toledo Zoo
+Now this was unexpected. A show in a zoo. g 
 
-The tour will take us to some exotic places; Tuscaloosa, Alabama. Mankato Minnesota. Nampa, Idaho. Indio, California. We play at Red Rocks, Colorado and the Greek Theater in Los Angeles.
+** TODO Cincinatti
+A everyone is a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Cleveland from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end it felt like there was a concert in the room.
 
-The main act is The Barenaked Ladies who are the organisers of this undertaking. They have run similar ventures before and by all accounts they run a cool operation and take pains to look after everyone on board.
-
-But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. There will be a lot of downtime. Time to write a novel, or learn a language. Or something.
-
-But my experience is that it is hard to imagine settling down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as `sheds' (or even `boutique sheds' in the business) the preciousness of time as a  commodity is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling long the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
-
-We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves. Which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took part of a large part of the day, one way or another. It seemed big and clever (and I had a lot of fun, probably much more than I even remembered at the time). But even if the spirit took me, we are not going to be in places where partying after the shows will be the order of the day.  
-
-Maybe this time I will find time to write that novel.
-
+Semisonic put on a great show after us, and The Barenaked Ladies know exactly how to take the audience with them as they take the stage. Buy 10.30 they had the ??? in the palms of their hands and Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
 
 ** DONE Day One
 Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
@@ -34,8 +24,21 @@ Dan from Semisonic described being on stage in the sunshine as mysteryless. But 
 
 We are, as Buddy never tires of telling us, living inside the rainbow.
 
+** DONE The Last Summer On Earth
+With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
 
+The prospect of living on a bus for seven weeks
+and playing thirty odd shows across the USA certainly has its appeal.
+The tour will take us to some exotic places; Tuscaloosa, Alabama. Mankato Minnesota. Nampa, Idaho. Indio, California. We play at Red Rocks, Colorado and the Greek Theater in Los Angeles.
+The main act is The Barenaked Ladies who are the organisers of this undertaking. They have run similar ventures before and by all accounts they run a cool operation and take pains to look after everyone on board.
 
+But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. There will be a lot of downtime. Time to write a novel, or learn a language. Or something.
+
+But my experience is that it is hard to imagine settling down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as `sheds' (or even `boutique sheds' in the business) the preciousness of time as a  commodity is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling long the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
+
+We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves. Which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took part of a large part of the day, one way or another. It seemed big and clever (and I had a lot of fun, probably much more than I even remembered at the time). But even if the spirit took me, we are not going to be in places where partying after the shows will be the order of the day.  
+
+Maybe this time I will find time to write that novel.
 
 
 ** DONE Cleveland, Ohio
