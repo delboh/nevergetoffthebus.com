@@ -8,14 +8,32 @@
 * Never get off the bus                                                :dels:
 
 ** TODO Toledo Zoo
-Now this was unexpected. A show in a zoo. g 
+:PROPERTIES:
+:EXPORT_FILE_NAME: toledo-zoo
+:EXPORT_DATE: 2023-06-04
+:EXPORT_HUGO_MENU: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
+Now this was unexpected. A show in a zoo. 
 
-** TODO Cincinatti
+** TODO Cincinnati
+:PROPERTIES:
+:EXPORT_FILE_NAME: cincinnati-ohio
+:EXPORT_DATE: 2023-06-03
+:EXPORT_HUGO_MENU: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
 A everyone is a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Cleveland from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end it felt like there was a concert in the room.
 
-Semisonic put on a great show after us, and The Barenaked Ladies know exactly how to take the audience with them as they take the stage. Buy 10.30 they had the ??? in the palms of their hands and Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
+Semisonic put on a great show after us, and The Barenaked Ladies know exactly how to take the audience with them as they take the stage. Buy 10.30 they had the PNC Pavilion in the palms of their hands---Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
 
 ** DONE Day One
+:PROPERTIES:
+:EXPORT_FILE_NAME: columbus-ohio
+:EXPORT_DATE: 2023-06-02
+:EXPORT_HUGO_MENU: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
 Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
 
 It was hot and there was no shade on the stage. The sinking sun was directly in our faces which makes sense I suppose: if the sun set behind the stage it would have been in the audiences eyes.
@@ -25,6 +43,12 @@ Dan from Semisonic described being on stage in the sunshine as mysteryless. But 
 We are, as Buddy never tires of telling us, living inside the rainbow.
 
 ** DONE The Last Summer On Earth
+:PROPERTIES:
+:EXPORT_FILE_NAME: the-last-summer-on-earth
+:EXPORT_DATE: 2023-05-31
+:EXPORT_HUGO_MENU: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER:
+:END:
 With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
 
 The prospect of living on a bus for seven weeks
