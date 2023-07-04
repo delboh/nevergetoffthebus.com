@@ -6,19 +6,243 @@
 #+author: Ebo H
 
 * Never get off the bus                                                :dels:
-
-** TODO Toledo Zoo
+** TODO Day Twenty-three: Indio
 :PROPERTIES:
-:EXPORT_FILE_NAME: toledo-zoo
+:EXPORT_FILE_NAME: day-twentythree-indio
+:EXPORT_DATE: [2023-06-24 Sat 22:37]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-two: Los Angeles
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twentytwo-los-angeles
+:EXPORT_DATE: [2023-06-24 Sat 22:36]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-one: San Diego
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twentyone-san-diego
+:EXPORT_DATE: [2023-06-24 Sat 22:36]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty: Hollywood
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-hollywood
+:EXPORT_DATE: [2023-06-24 Sat 22:35]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Nineteen: Saratoga
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-nineteen-saratoga
+:EXPORT_DATE: [2023-06-24 Sat 22:35]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Eightteen, Cupertino
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-eighteen-cupertino
+:EXPORT_DATE: [2023-06-20 Tue 03:15]
+:END:
+After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable C.J. Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
+
+A quarter of a mile along the street, Cupertino mall was the likeliest looking place nearby for food and drink
+
+I don't expect to ever find myself in a squeakier clean place full of squeakier clean people
+
+a large portion of the squeaky clean people wandering among the eateries exuded a smugness that did not sit well with their youthfulness. You see the same smugness in the residents of the upper east side of Manhattan 
+
+
+
+
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+
+** TODO Day Seventeen: Woodinville
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-seventeen-woodinville
+:EXPORT_DATE: [2023-06-24 Sat 22:32]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Sixteen: Troutdale
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-sixteen-troutdale
+:EXPORT_DATE: [2023-06-24 Sat 22:32]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifteen: Portland
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifteen-portland
+:EXPORT_DATE: [2023-06-24 Sat 22:31]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fourteen: Nampa 
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fourteen-nampa
+:EXPORT_DATE: [2023-06-24 Sat 22:31]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirteen: Salt Lake City
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirteen-salt-lake-city
+:EXPORT_DATE: [2023-06-24 Sat 22:30]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twelve: Red Rocks
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twelve-red-rocks
+:EXPORT_DATE: [2023-06-24 Sat 22:30]
+:END:
+This place gets talked up so much that I was expecting to be disappointed.
+
+After the show last night we had spent the night in faceless up-market lodgings 
+in Littleton at the western edge of the city of Denver.
+
+Twenty five miles away and still in the city.
+
+(Travelling twenty five miles in a UK city is inconceivable. Twenty five miles from central London will put you in Gravesend or Slough. From central Glasgow you could be on the Isle of Cumbrae or at the top of Ben Lomond.)
+
+Red Rocks is only a few miles along the highway that runs past the hotel entrance and for the moment at least seem to mark the limit of the metropolitan area. Beyond that all that is to be seen are some unimpressive looking scrubby hills.
+
+The day did not start well.
+I joined CJ at the hotel breakfast.
+
+After devouring a waffle he ran from the table to a nearby bathroom and I could hear him being violently ill. He did not reappear at the table. After a few minutes I checked the bathroom but there is no sign of him. 
+
+He had talked about stomach problems ()
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Eleven: Devner
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-eleven-denver
+:EXPORT_DATE: [2023-06-24 Sat 22:29]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Ten: Kansas City
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-ten-kansas-city
+:EXPORT_DATE: [2023-06-24 Sat 22:27]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Nine: Mankato
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-nine-mankato
+:EXPORT_DATE: [2023-06-24 Sat 22:27]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Seven: St Cloud
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-seven-st-cloud
+:EXPORT_DATE: [2023-06-24 Sat 22:26]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Six: Milwaukee
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-six-milwaukee
+:EXPORT_DATE: [2023-06-24 Sat 22:24]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Five: Chicago
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-five-chicago
+:EXPORT_DATE: [2023-06-24 Sat 22:24]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Four: Indianapolis
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-four-indianapolis
+:EXPORT_DATE: [2023-06-24 Sat 22:21]
+:END:
+It is only a three hour drive from Toledo and bus came to rest outside HI-FI Indy early.
+
+This was our first headline show on this tour and the first place that was not airport or venue or bus (or zoo) that I had set foot in since leaving home.
+
+The club was on Fountain Square which revealed itself to be a designated national historic district and very cool neighbourhood indeed.  
+
+This was a return to a kind of sanity after the grim utility of the back lots of Ohio's amphitheatres.
+
+C.J. and I were the first customers in a hipster coffee shop a block away from the bus when it opened at 7am.
+
+The short walk to Bovaconti Coffee in the chilly morning sun past the two storey red brick buildings of Virginia Avenue was a joy.
+
+And 
+
+
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** DONE Day Three: Toledo Zoo
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-three-toledo-zoo
 :EXPORT_DATE: 2023-06-04
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-Now this was unexpected. A show in a zoo. Breakfast served in the Great Hall in the basement of the Toledo Museum of Science.  
+Now this was unexpected. A show in a zoo.
 
-** TODO Cincinnati
+Breakfast was served in the Great Hall in the basement of the Toledo Museum of Science---through the doors, turn right at the huge stuffed yak and head down the stairs. 
+
+The stage was located between the flamingos and the aquarium.
+
+The flamingos were as ludicrously pink as you could expect but stuck in a cage that they could not possibly fly in.
+
+Lions could be heard roaring querulously from deep in their lair.
+
+Did the fish have a better deal in their tanks? At least they could swim in circles but surely, if fish have desires, the sting rays pine for the open sea.  
+
+I would never go out of my way to visit a zoo but being here with 'backstage' access out of hours seemed like an exciting prospect. A conversation with the staff as to what I should go to see before the gates opened revealed that there were a pair of polar bears with a recently born cub. I decided that I should shelve my reservations about cooping up wild animals and set off though a tunnel under a freeway towards Toledo Zoo's Arctic Encounter. But all that was to be seen there was a couple of staff clearing out the bear shit and power-washing the white painted rocks to keep them sparkling white for the visitors (I can't imagine the residents were fooled into feeling more at home by a splash of whitewash).
+
+The bears were shuttered behind some very secure looking steel doors. No plaintive noises here, and I fantasised a scene of ursine familial bliss in the fake snow cave.
+
+Maybe having professionals trying to figure out your every physical need while also doing the best they can to keep you and your newborn as healthy and happy as possible---within the obvious confines---isn't so bad. It was hard to reconcile their situation with the unseasonal heat in Ohio, but then again northern Europeans flock to the hottest parts of their continent in the summer to bask in the searing Mediterranean sun. Maybe the bears perception in that respect is that they have lucked in.
+
+Toledo Zoo is a long way from anything that looks like a city.
+
+I have  memories of a sordid few days in 1991 furloughed in a cheap motel in this town.
+
+Those memories, and the building heat were enough to convince me that a three mile cab ride to down town Toledo to see if the place had come up in the world in the intervening years was not going to be worth th effort.
+
+I reconciled myself to a day kicking my heels until work began at four thirty. 
+
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+
+
+** DONE Day two: Cincinnati, Ohio
 :PROPERTIES:
-:EXPORT_FILE_NAME: cincinnati-ohio
+:EXPORT_FILE_NAME: day-two-cincinnati-ohio
 :EXPORT_DATE: 2023-06-03
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
@@ -26,21 +250,38 @@ Now this was unexpected. A show in a zoo. Breakfast served in the Great Hall in 
 Everyone was a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Cleveland from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end of our set it was starting to feel like there was a concert in the room.
 
 Semisonic put on a great show after us, and The Barenaked Ladies know exactly how to take the audience with them as they take the stage. Buy 10.30 they had the PNC Pavilion in the palms of their hands---Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 
-** DONE Day One
+** DONE Day One: Columbus, Ohio
 :PROPERTIES:
-:EXPORT_FILE_NAME: columbus-ohio
+:EXPORT_FILE_NAME: day-one-columbus-ohio
 :EXPORT_DATE: 2023-06-02
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
+It seems appropriate that we are back in Ohio where the we played the final show of last year's US tour---Columbus this time.
 
-It was hot and there was no shade on the stage. The sinking sun was directly in our faces which makes sense I suppose: if the sun set behind the stage it would have been in the audiences eyes.
+But it was touch and go getting here.  A catalogue of mishaps on the journey---phantom bags, lost (and, thankfully, found) passports, a two and a half hour delay at Heathrow airport that left us stranded in Philadelphia with a disagreement with US Customs at Philadelphia airport that almost resulted in us having all of our guitars impounded. But we made it to the show with an hour to spare a little frayed around the edges, but in one piece and with the guitars.
 
-Dan from Semisonic described being on stage in the sunshine as mysteryless. But our concern turned out not to be the lack of mystery but avoiding heat exhaustion. Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
+Things were chaotic at the venue.
+Hundreds of cases (including two containing pinball machines) had spewed forth from three forty foot semis and filled the huge backstage.
+
+Backline for us and Semisonic and hundreds of boxes of merchandise were added to this mountain of stuff as the day unfolded. 
+
+but the veneer of calm and politeness remained mercifully intact.
+
+It was stupidly hot for early June. Whether this aided or hindered the mood is hard to say 
+
+but whoever designed Kemba Live had made no concessions for any performance before sun down on such a day
+
+The fierce mid-west sun beat down on the stage during the sound check and by show time it was directly in our faces. 
+
+Dan from Semisonic described being on stage in the sunshine as "mysteryless". But our concern turned out not to be the lack of mystery but avoiding heat exhaustion.
+
+Kris, who has pretty strict conception of what can and can't be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the only shade he could find, the patch behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
 
 We are, as Buddy never tires of telling us, living inside the rainbow.
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 
 ** DONE The Last Summer On Earth
 :PROPERTIES:
@@ -56,14 +297,15 @@ and playing thirty odd shows across the USA certainly has its appeal.
 The tour will take us to some exotic places; Tuscaloosa, Alabama. Mankato Minnesota. Nampa, Idaho. Indio, California. We play at Red Rocks, Colorado and the Greek Theater in Los Angeles.
 The main act is The Barenaked Ladies who are the organisers of this undertaking. They have run similar ventures before and by all accounts they run a cool operation and take pains to look after everyone on board.
 
-But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. There will be a lot of downtime. Time to write a novel, or learn a language. Or something.
+But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. Time to write a novel, or learn a language. Or something.
 
-But my experience is that it is hard to imagine settling down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as `sheds' (or even `boutique sheds' in the business) the preciousness of time as a  commodity is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling long the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
+But my experience is that it is hard to  settle down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as `sheds', or even `boutique sheds' in the business the preciousness of time is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling along the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
 
-We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves. Which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took part of a large part of the day, one way or another. It seemed big and clever (and I had a lot of fun, probably much more than I even remembered at the time). But even if the spirit took me, we are not going to be in places where partying after the shows will be the order of the day.  
+We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves, which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took care of a large part of the day, one way or another. It seemed big and clever then and I had a lot of fun and went to a lot of great bars (probably much more than I even remembered at the time). But if, heaven forbid, the spirit took me after a week or seven on the road we will not be in places where partying after the shows will be the order of the day. 
 
 Maybe this time I will find time to write that novel.
 
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 
 ** DONE Cleveland, Ohio
 :PROPERTIES:

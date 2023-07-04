@@ -2,16 +2,31 @@
 title = "Day One"
 author = ["Ebo H"]
 date = 2023-06-02
-lastmod = 2023-06-08T12:52:49+01:00
+lastmod = 2023-06-23T23:16:26+01:00
 tags = ["dels"]
 draft = false
-weight = 2001
+weight = 2004
 +++
 
-Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
+It seems appropriate that we are back in Ohio where the we played the final show of last year's US tour---Columbus this time.
 
-It was hot and there was no shade on the stage. The sinking sun was directly in our faces which makes sense I suppose: if the sun set behind the stage it would have been in the audiences eyes.
+But it was touch and go getting here.  A catalogue of mishaps on the journey---phantom bags, lost (and, thankfully, found) passports, a two and a half hour delay at Heathrow airport that left us stranded in Philadelphia with a disagreement with US Customs at Philadelphia airport that almost resulted in us having all of our guitars impounded. But we made it to the show with an hour to spare a little frayed around the edges, but in one piece and with the guitars.
 
-Dan from Semisonic described being on stage in the sunshine as mysteryless. But our concern turned out not to be the lack of mystery but avoiding heat exhaustion. Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
+Things were chaotic at the venue.
+Hundreds of cases (including two containing pinball machines) had spewed forth from three forty foot semis and filled the huge backstage.
+
+Backline for us and Semisonic and hundreds of boxes of merchandise were added to this mountain of stuff as the day unfolded.
+
+but the veneer of calm and politeness remained mercifully intact.
+
+It was stupidly hot for early June. Whether this aided or hindered the mood is hard to say
+
+but whoever designed Kemba Live had made no concessions for any performance before sun down on such a day
+
+The fierce mid-west sun beat down on the stage during the sound check was directly in our faces.
+
+Dan from Semisonic described being on stage in the sunshine as "mysteryless". But our concern turned out not to be the lack of mystery but avoiding heat exhaustion.
+
+Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the only shade he could find, patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
 
 We are, as Buddy never tires of telling us, living inside the rainbow.
