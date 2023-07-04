@@ -2,7 +2,7 @@
 title = "Western or English dressage"
 author = ["Ebo H"]
 date = 2022-03-30
-lastmod = 2023-06-11T12:03:56+01:00
+lastmod = 2023-06-11T13:28:32+01:00
 tags = ["dels"]
 draft = false
 weight = 2017
