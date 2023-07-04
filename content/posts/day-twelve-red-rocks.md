@@ -2,7 +2,7 @@
 title = "Day Twelve: Red Rocks"
 author = ["Ebo H"]
 date = 2023-06-24T22:30:00-07:00
-lastmod = 2023-07-04T07:31:34-07:00
+lastmod = 2023-07-04T11:42:21-07:00
 tags = ["dels"]
 draft = true
 weight = 2012
