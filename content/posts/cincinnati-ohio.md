@@ -2,10 +2,10 @@
 title = "Cincinnati"
 author = ["Ebo H"]
 date = 2023-06-03
-lastmod = 2023-06-08T18:59:59+01:00
+lastmod = 2023-06-23T23:20:01+01:00
 tags = ["dels"]
-draft = true
-weight = 2002
+draft = false
+weight = 2003
 +++
 
 Everyone was a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Cleveland from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end of our set it was starting to feel like there was a concert in the room.
