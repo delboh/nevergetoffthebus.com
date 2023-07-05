@@ -51,7 +51,7 @@
 :EXPORT_FILE_NAME: day-eighteen-cupertino
 :EXPORT_DATE: [2023-06-20 Tue 03:15]
 :END:
-After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable C.J. Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
+After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable CJ Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
 
 A quarter of a mile along the street, Cupertino mall was the likeliest looking place nearby for food and drink
 
@@ -184,22 +184,17 @@ He had talked about stomach problems ()
 :EXPORT_FILE_NAME: day-four-indianapolis
 :EXPORT_DATE: [2023-06-24 Sat 22:21]
 :END:
+This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.
+
 It is only a three hour drive from Toledo and bus came to rest outside HI-FI Indy early.
 
-This was our first headline show on this tour and the first place that was not airport or venue or bus (or zoo) that I had set foot in since leaving home.
+The club was on Fountain Square which revealed itself to be a designated national historic district and very cool neighbourhood indeed. 
+CJ and I were the first customers in a hipster coffee shop a block away from our resting place when it opened at 7am.
 
-The club was on Fountain Square which revealed itself to be a designated national historic district and very cool neighbourhood indeed.  
+The short walk to Bovaconti Coffee in the chilly morning sun past the record stores and bars in the two storey red brick buildings of Virginia Avenue felt like a luxurious pleasure
+and a return to a kind of sanity after the grim utility of the back lots of Ohio's amphitheatres.
 
-This was a return to a kind of sanity after the grim utility of the back lots of Ohio's amphitheatres.
-
-C.J. and I were the first customers in a hipster coffee shop a block away from the bus when it opened at 7am.
-
-The short walk to Bovaconti Coffee in the chilly morning sun past the two storey red brick buildings of Virginia Avenue was a joy.
-
-And 
-
-
-
+And hard to imagine better company for breakfast. So many US citizens reveal themselves to be self obsessed to a degree that implies a kind of madness: they are unable to talk about anything other than themselves. CJ is not made in that mould. He reveals himself to be mindful and considerate of those around him and circumspect in his conversation. I did manage to discover that he was from a Pennsylvania mining family, and that his grandfather worked every day in a mine that he owned until he died at the age of 82. CJ learned to operate the trucks at that mine when he was a kid and now drives country music stars and, occasionally, obscure Scottish rock bands around the USA. I hope he writes his memoirs.  
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** DONE Day Three: Toledo Zoo
