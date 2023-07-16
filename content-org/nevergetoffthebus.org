@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_section: ./posts
 #+hugo_weight: auto
-#+hugo_auto_set_lastmod: t
+#+hugo_auto_set_lastmod: nil
 
 #+author: Ebo H
 
@@ -186,7 +186,6 @@ In a separate compound
 a selection of upmarket patio furniture and outdoor games was encircled by Portakabins kitted out as dressing rooms. One of the venue staff who was purposefully arranging cushions on the sofas approached me as I entered (through another metal detector, obviously) and introduced themselves to me as the back stage experience coordinator. Fair enough, but a hell of a job description.
 
 Our Portakabin was indeed coordinated. Not just the furnishings that included a record player and a selection of vinyl that you might want to play. Attention had been paid to the arrangement of the fruit: bananas, apples, pears and clementines arranged in a rotating sequence on a rectangular platter. (I was relieved that the order was not alphabetical---that would have been just too weird: the sequence started with a banana. But maybe considering that is even weirder.) 
-
 
 
 
