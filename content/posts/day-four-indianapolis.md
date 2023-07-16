@@ -2,9 +2,9 @@
 title = "Day Four: Indianapolis"
 author = ["Ebo H"]
 date = 2023-06-24T22:21:00-04:00
-lastmod = 2023-07-04T21:05:13-04:00
+lastmod = 2023-07-16T07:09:36-04:00
 tags = ["dels"]
-draft = true
+draft = false
 weight = 2019
 +++
 
