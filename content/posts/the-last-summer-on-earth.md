@@ -2,10 +2,9 @@
 title = "The Last Summer On Earth"
 author = ["Ebo H"]
 date = 2023-05-31
-lastmod = 2023-06-23T23:25:12+01:00
 tags = ["dels"]
 draft = false
-weight = 2005
+weight = 2024
 +++
 
 With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
@@ -22,3 +21,5 @@ But my experience is that it is hard to  settle down to anything constructive on
 We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves, which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took care of a large part of the day, one way or another. It seemed big and clever then and I had a lot of fun and went to a lot of great bars (probably much more than I even remembered at the time). But if, heaven forbid, the spirit took me after a week or seven on the road we will not be in places where partying after the shows will be the order of the day.
 
 Maybe this time I will find time to write that novel.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

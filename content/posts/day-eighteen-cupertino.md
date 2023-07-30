@@ -1,14 +1,13 @@
 +++
-title = "Day 19, Cupertino"
+title = "Day Eighteen, Cupertino"
 author = ["Ebo H"]
-date = 2023-06-20T03:15:00+01:00
-lastmod = 2023-06-24T00:08:04+01:00
+date = 2023-06-19
 tags = ["dels"]
 draft = true
-weight = 2001
+weight = 2006
 +++
 
-After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable C.J. Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
+After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable CJ Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
 
 A quarter of a mile along the street, Cupertino mall was the likeliest looking place nearby for food and drink
 

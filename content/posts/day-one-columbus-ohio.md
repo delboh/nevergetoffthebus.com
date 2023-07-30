@@ -1,11 +1,10 @@
 +++
-title = "Day One"
+title = "Day One: Columbus, Ohio"
 author = ["Ebo H"]
 date = 2023-06-02
-lastmod = 2023-06-23T23:16:26+01:00
 tags = ["dels"]
 draft = false
-weight = 2004
+weight = 2023
 +++
 
 It seems appropriate that we are back in Ohio where the we played the final show of last year's US tour---Columbus this time.
@@ -23,10 +22,11 @@ It was stupidly hot for early June. Whether this aided or hindered the mood is h
 
 but whoever designed Kemba Live had made no concessions for any performance before sun down on such a day
 
-The fierce mid-west sun beat down on the stage during the sound check was directly in our faces.
+The fierce mid-west sun beat down on the stage during the sound check and by show time it was directly in our faces.
 
 Dan from Semisonic described being on stage in the sunshine as "mysteryless". But our concern turned out not to be the lack of mystery but avoiding heat exhaustion.
 
-Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the only shade he could find, patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
+Kris, who has pretty strict conception of what can and can't be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the only shade he could find, the patch behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
 
 We are, as Buddy never tires of telling us, living inside the rainbow.
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

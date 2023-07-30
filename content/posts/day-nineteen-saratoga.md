@@ -1,10 +1,10 @@
 +++
-title = "Day Twenty-one: San Diego"
+title = "Day Nineteen: Saratoga"
 author = ["Ebo H"]
-date = 2023-06-22
+date = 2023-06-20
 tags = ["dels"]
 draft = true
-weight = 2003
+weight = 2005
 +++
 
 [You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

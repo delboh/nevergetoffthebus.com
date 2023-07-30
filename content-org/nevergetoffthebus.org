@@ -9,7 +9,7 @@
 ** TODO Day Twenty-three: Indio
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twentythree-indio
-:EXPORT_DATE: [2023-06-24 Sat 22:37]
+:EXPORT_DATE: 2023-06-24
 :END:
 
 
@@ -17,7 +17,7 @@
 ** TODO Day Twenty-two: Los Angeles
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twentytwo-los-angeles
-:EXPORT_DATE: [2023-06-24 Sat 22:36]
+:EXPORT_DATE: 2023-06-23
 :END:
 
 
@@ -25,7 +25,7 @@
 ** TODO Day Twenty-one: San Diego
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twentyone-san-diego
-:EXPORT_DATE: [2023-06-24 Sat 22:36]
+:EXPORT_DATE: 2023-06-22
 :END:
 
 
@@ -33,7 +33,7 @@
 ** TODO Day Twenty: Hollywood
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twenty-hollywood
-:EXPORT_DATE: [2023-06-24 Sat 22:35]
+:EXPORT_DATE: 2023-06-21
 :END:
 
 
@@ -41,15 +41,15 @@
 ** TODO Day Nineteen: Saratoga
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-nineteen-saratoga
-:EXPORT_DATE: [2023-06-24 Sat 22:35]
+:EXPORT_DATE: 2023-06-20
 :END:
 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
-** TODO Day Eightteen, Cupertino
+** TODO Day Eighteen: Cupertino
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-eighteen-cupertino
-:EXPORT_DATE: [2023-06-20 Tue 03:15]
+:EXPORT_DATE: 2023-06-19
 :END:
 After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable CJ Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
 
@@ -69,7 +69,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Seventeen: Woodinville
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-seventeen-woodinville
-:EXPORT_DATE: [2023-06-24 Sat 22:32]
+:EXPORT_DATE: 2023-06-18
 :END:
 
 
@@ -77,7 +77,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Sixteen: Troutdale
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-sixteen-troutdale
-:EXPORT_DATE: [2023-06-24 Sat 22:32]
+:EXPORT_DATE: 2023-06-17
 :END:
 
 
@@ -85,7 +85,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Fifteen: Portland
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-fifteen-portland
-:EXPORT_DATE: [2023-06-24 Sat 22:31]
+:EXPORT_DATE: 2023-06-16
 :END:
 
 
@@ -93,7 +93,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Fourteen: Nampa 
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-fourteen-nampa
-:EXPORT_DATE: [2023-06-24 Sat 22:31]
+:EXPORT_DATE: 2023-06-15
 :END:
 
 
@@ -101,7 +101,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Thirteen: Salt Lake City
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-thirteen-salt-lake-city
-:EXPORT_DATE: [2023-06-24 Sat 22:30]
+:EXPORT_DATE: 2023-06-14
 :END:
 
 
@@ -109,7 +109,7 @@ a large portion of the squeaky clean people wandering among the eateries exuded 
 ** TODO Day Twelve: Red Rocks
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twelve-red-rocks
-:EXPORT_DATE: [2023-06-24 Sat 22:30]
+:EXPORT_DATE: 2023-06-13
 :END:
 This place gets talked up so much that I was expecting to be disappointed.
 
@@ -134,7 +134,7 @@ He had talked about stomach problems ()
 ** TODO Day Eleven: Devner
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-eleven-denver
-:EXPORT_DATE: [2023-06-24 Sat 22:29]
+:EXPORT_DATE: 2023-06-12
 :END:
 
 
@@ -142,7 +142,7 @@ He had talked about stomach problems ()
 ** TODO Day Ten: Kansas City
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-ten-kansas-city
-:EXPORT_DATE: [2023-06-24 Sat 22:27]
+:EXPORT_DATE: 2023-06-11
 :END:
 
 
@@ -150,7 +150,15 @@ He had talked about stomach problems ()
 ** TODO Day Nine: Mankato
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-nine-mankato
-:EXPORT_DATE: [2023-06-24 Sat 22:27]
+:EXPORT_DATE: 2023-06-10
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Eight: Waite Park
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-eight-waite-park
+:EXPORT_DATE: 2023-06-09
 :END:
 
 
@@ -158,7 +166,7 @@ He had talked about stomach problems ()
 ** TODO Day Seven: St Cloud
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-seven-st-cloud
-:EXPORT_DATE: [2023-06-24 Sat 22:26]
+:EXPORT_DATE: 2023-06-08
 :END:
 
 
@@ -166,20 +174,38 @@ He had talked about stomach problems ()
 ** TODO Day Six: Milwaukee
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-six-milwaukee
-:EXPORT_DATE: [2023-06-24 Sat 22:24]
+:EXPORT_DATE: 2023-06-07
 :END:
 
+
+
+The BMO Pavilion is right on the shore of Lake Michigan
+and the view from the bus when I woke was of the sun on the water.
+
+the geography of the city of Chicago somehow seems to indicate that it is on a lake
+but I always have to remind myself that Milwaukee is not on the sea
+
+Then again, Lake Michigan is about the size of the Irish Sea.
+you could sail due north for three hundred miles from Chicago before you would land in Canada. The Michigan coast is way beyond the horizon seventy miles to the east of Milwaukee.
+
+the clarity of the breeze from the lake that greeted me when I clambered down from the bus made it obvious that this is a fresh water coast  
+
+I set off into a tiny parcel of prairie that is Lakeshore State Park for a pre-breakfast run
+
+and ended up in Veteran's Park looking at a statue of General Douglas MacArthur. 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** TODO Day Five: Chicago
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-five-chicago
-:EXPORT_DATE: [2023-06-24 Sat 22:24]
+:EXPORT_DATE: 2023-06-06
 :END:
 
-Back to another back stage parking lot. This one with military levels of security; the underside of the buses and the trucks checked with mirrors as they enter; metal detectors at the entrances to the lot; a second security ring and another metal detector to get to and from the bus; and a third level of security and a third metal detector to get on to the stage. Something to do with the levels of gun violence in Chicago. At least they take it seriously here, even if no one seems to care that everyone passing through the detectors has something on their person---a spanner; a guitar that set them off.
+Back to another back stage parking lot. This one with military levels of security; buses and the trucks checked with mirrors as they enter; metal detectors at the entrances to the lot; a second security ring and another metal detector to get to and from the bus; and a third level of security and a third metal detector to get on to the stage. Something to do with the levels of gun violence in Chicago. At least they take it seriously here, even if no one seems to care that everyone passing through the detectors has something on their person---a spanner; a guitar that sets them off.
 
-In some of the southern states it seems like a given that there are people with weapons around. Ed told an anecdote on stage in Idaho about asking if anyone had something to cut a loose thread from his clothes just before he went on stage and half-a-dozen blades instantaneously appeared around him produced from the belts and pockets of the local crew. I don't doubt for a second that a few handguns would have been produced from the same company if considered necessary. [[https://oneaimil.org/the-issue/impact-of-gun-violence/][A moment's research]] reveals the amazing statistic that on average, someone is killed with a gun every 6 hours in Illinois. So maybe it's all necessary.
+In some states it seems like a given that there are people with weapons around. Ed has story about asking before going on stage at a show in the Midwest if anyone had something to cut a loose thread from his clothes just before he went on stage and half-a-dozen blades instantaneously appeared around him produced from the belts and pockets of the local crew. I don't doubt for a second that a few handguns would have been produced from the same company if considered necessary. [[https://oneaimil.org/the-issue/impact-of-gun-violence/][A moment's research]] reveals the amazing statistic that on average, someone is killed with a gun every 6 hours in Illinois. So maybe it's all necessary.
+
+ Bird attack. 
 
 In a separate compound
 
@@ -187,15 +213,11 @@ a selection of upmarket patio furniture and outdoor games was encircled by Porta
 
 Our Portakabin was indeed coordinated. Not just the furnishings that included a record player and a selection of vinyl that you might want to play. Attention had been paid to the arrangement of the fruit: bananas, apples, pears and clementines arranged in a rotating sequence on a rectangular platter. (I was relieved that the order was not alphabetical---that would have been just too weird: the sequence started with a banana. But maybe considering that is even weirder.) 
 
-
-
-Bird attack. 
-
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** DONE Day Four: Indianapolis
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-four-indianapolis
-:EXPORT_DATE: [2023-06-24 Sat 22:21]
+:EXPORT_DATE: 2023-06-06
 :END:
 This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.
 
@@ -247,7 +269,6 @@ I reconciled myself to a day kicking my heels until work began at four thirty.
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 
-
 ** DONE Day two: Cincinnati, Ohio
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-two-cincinnati-ohio
@@ -255,7 +276,7 @@ I reconciled myself to a day kicking my heels until work began at four thirty.
 :EXPORT_HUGO_MENU: 
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER:
 :END:
-Everyone was a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Cleveland from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end of our set it was starting to feel like there was a concert in the room.
+Everyone was a little more chilled today. The venue is a proper shed---outdoor but with a roof. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so we love we got in Columbus from directly in front of the stage from the few who bought tickets specifically to see us is missing. But the love was there, scattered around the cavernous space and by the end of our set it was starting to feel like there was a concert in the room.
 
 Semisonic put on a great show after us, and The Barenaked Ladies know exactly how to take the audience with them as they take the stage. Buy 10.30 they had the PNC Pavilion in the palms of their hands---Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]

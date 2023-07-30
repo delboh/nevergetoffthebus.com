@@ -2,10 +2,9 @@
 title = "Chandler no more, Bukowski no more."
 author = ["Ebo H"]
 date = 2022-03-25
-lastmod = 2023-06-07T03:37:34+01:00
 tags = ["dels"]
 draft = false
-weight = 2017
+weight = 2041
 +++
 
 The nearest place to the hotel to eat is Mel’s Diner. Buddy, Brian and I drift

@@ -2,10 +2,9 @@
 title = "The Horseshoe Tavern, Toronto."
 author = ["Ebo H"]
 date = 2022-04-13
-lastmod = 2023-06-07T03:37:32+01:00
 tags = ["dels"]
 draft = false
-weight = 2009
+weight = 2033
 +++
 
 Kris is very excited to be standing on the same square meter that was occupied for an hour or so by one Keith Richards on the evening of June 4, 1997 when the Rolling Stones decided to play an impromptu show at the Horseshoe Tavern during rehearsals for the Bridges To Babylon Tour.

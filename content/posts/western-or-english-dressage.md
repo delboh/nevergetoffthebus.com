@@ -2,10 +2,9 @@
 title = "Western or English dressage"
 author = ["Ebo H"]
 date = 2022-03-30
-lastmod = 2023-06-11T13:28:32+01:00
 tags = ["dels"]
 draft = false
-weight = 2017
+weight = 2037
 +++
 
 The first mission of the day when Gary parks the bus in the morning, in fact the only mission of the day prior to sound check at 5 pm, is to find a good spot for brunch. Berkeley looks promising. I set off from the bus down Shattuck Avenue and every third door is a coffee shop. Presented with such a excess of places to eat eggs I ask a security guard outside a bank where would be a good place to have breakfast. “Sit down?” he comes straight back with. Sure, I say.

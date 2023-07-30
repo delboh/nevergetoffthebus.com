@@ -2,10 +2,9 @@
 title = "Cleveland, Ohio"
 author = ["Ebo H"]
 date = 2022-04-24
-lastmod = 2023-06-07T03:37:30+01:00
 tags = ["dels"]
 draft = false
-weight = 2001
+weight = 2025
 +++
 
 Cleveland, early on a Sunday morning. I feel fully recovered and in denial that this is the end of the road. The final venue is another damn supper club, The Music Box. There is a decent looking Sunday brunch on offer there but distressingly this will be accompanied either by a Doobie Brothers or a Crosby Stills Nash and Young tribute band depending on whether one chooses to eat upstairs or downstairs in the club. There is a long day ahead and this does not appeal to me as the most relaxing way to start it off. We are just across the river from The Flats where there seem to be a bunch of decent places to sit and chill with a coffee and a decent plate of food. The river taxi that would take me the 200m across the Cuyahoga River doesn’t run on Sundays but according to my phone it should only take 20 minutes to walk. Unfortunately the pedestrian bridge to downtown is shut for repairs and after forty minutes of going round in circles I am high up on the Cleveland Memorial Shoreway pretty much directly over where I started. I eventually make it across. It has taken me an hour to traverse the 200m. I find a shady table a chi-chi eaterie overlooking the river but the vibe is somewhat undermined by the fact that there are thousands of dead and dying fish floating on the surface. The canoeists and the scullers that pass by seem unperturbed by this but I have to consciously suppress being really creeped out--—I would be utterly shocked to see this in the Clyde, or even in the Thames.

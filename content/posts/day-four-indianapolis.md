@@ -1,11 +1,10 @@
 +++
 title = "Day Four: Indianapolis"
 author = ["Ebo H"]
-date = 2023-06-24T22:21:00-04:00
-lastmod = 2023-07-16T07:09:36-04:00
+date = 2023-06-06
 tags = ["dels"]
 draft = false
-weight = 2019
+weight = 2020
 +++
 
 This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.

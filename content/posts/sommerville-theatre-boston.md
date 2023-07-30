@@ -2,10 +2,9 @@
 title = "Sommerville Theater, Boston"
 author = ["Ebo H"]
 date = 2022-04-15
-lastmod = 2023-06-07T03:37:31+01:00
 tags = ["dels"]
 draft = false
-weight = 2007
+weight = 2031
 +++
 
 The Crystal Ballroom is a chic club above the Somerville Theater, a very chic repertory cinema. There are people living on the streets but otherwise pretty much everything in Sommerville, MA is chic. It is a beautiful day with cloudless skies and Davis Square fills up as the sun warms but things go downhill when someone a guy who might be in his seventies appears with a semi-pro busking set up. He starts playing an acoustic guitar and has a remarkable improvisational technique—--I wonder if he could be a surviving member of the Grateful Dead: wrong coast, I suppose. Unfortunately every two minutes or so, in spite of the fact that he cannot sing he launches into tuneless steam-of-consciousness lyrics to accompany his playing. The locals enjoying the evening sun in David Square seem prepared to tolerate this, and some even seem to be enjoying it but after the fourth or fifth interlude of impressionistic wailing I can take no more. After spending a while fantasizing a scenario where I give the guy fifty bucks to stop playing for half-an-hour I head off sauntering around the boulevards of Somerville before picking up some food from a chic organic supermarket.
