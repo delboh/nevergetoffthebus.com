@@ -6,6 +6,246 @@
 #+author: Ebo H
 
 * Never get off the bus                                                :dels:
+** TODO Day Fifty-four
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-four
+:EXPORT_DATE: [2023-07-24]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty-three: Chicago O'Hare
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-three-chicago-o-hare
+:EXPORT_DATE: [2023-07-23]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty-Two: Clarkston
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-two-clarkston
+:EXPORT_DATE: [2023-07-22]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty-one: Cuyahoga Falls
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-one-cuyahoga-falls
+:EXPORT_DATE: [2023-07-21]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty: Akron
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-akron
+:EXPORT_DATE: [2023-07-20]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-nine: Philadelphia
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-nine-philadelphia
+:EXPORT_DATE: [2023-07-19]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-eight: Portsmouth
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-eight-portsmouth
+:EXPORT_DATE: [2023-07-18]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-seven: Charleston
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-seven-charleston
+:EXPORT_DATE: [2023-07-17]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-six: St Augustine
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-six-st-augustine
+:EXPORT_DATE: [2023-07-16]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-five: Valdosta
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-five-valdosta
+:EXPORT_DATE: [2023-07-15]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-three: Wilmington
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-three-wilmington
+:EXPORT_DATE: [2023-07-14]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-two: Wilmington
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-two-wilmington
+:EXPORT_DATE: [2023-07-13]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty-one: NYC
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-one-nyc
+:EXPORT_DATE: [2023-07-12]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Forty: Lewiston
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-forty-lewiston
+:EXPORT_DATE: [2023-07-11]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-nine: Buffalo
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-nine-buffalo
+:EXPORT_DATE: [2023-07-10]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-eight: Boston
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-eight-boston
+:EXPORT_DATE: [2023-07-09]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-seven: Gilford
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-seven-gilford
+:EXPORT_DATE: [2023-07-08]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-six: Uncasville
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-six-uncasville
+:EXPORT_DATE: [2023-07-07]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-five: Red Bank
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-five-red-bank
+:EXPORT_DATE: [2023-07-06]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-four: Washington DC
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-four-washington-dc
+:EXPORT_DATE: [2023-07-05]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-three: Raleigh
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-three-raleigh
+:EXPORT_DATE: [2023-07-04]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-two: Raleigh
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-two-raleigh
+:EXPORT_DATE: [2023-07-03]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty-one: Nashville
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-one-nashville
+:EXPORT_DATE: [2023-07-02]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Thirty: Greensboro
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-thirty-greensboro
+:EXPORT_DATE: [2023-07-01]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-nine: Atlanta
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-nine-atlanta
+:EXPORT_DATE: [2023-06-30]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-eight: New Orleans
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-eight-new-orleans
+:EXPORT_DATE: [2023-06-29]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-seven: Tuscaloosa
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-seven-tuscaloosa
+:EXPORT_DATE: [2023-06-28]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-six: Tuscaloosa
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-six-tuscaloosa
+:EXPORT_DATE: [2023-06-27]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-five: Austin
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-five-austin
+:EXPORT_DATE: [2023-06-26]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Twenty-four: Austin
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-twenty-four-austin
+:EXPORT_DATE: [2023-06-25]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** TODO Day Twenty-three: Indio
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-twentythree-indio
@@ -131,7 +371,7 @@ He had talked about stomach problems ()
 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
-** TODO Day Eleven: Devner
+** TODO Day Eleven: Denver
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-eleven-denver
 :EXPORT_DATE: 2023-06-12
