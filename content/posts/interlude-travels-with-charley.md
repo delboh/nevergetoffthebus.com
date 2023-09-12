@@ -1,0 +1,17 @@
++++
+title = "Day Seven: St Cloud part II"
+author = ["Ebo H"]
+date = 2023-06-08
+tags = ["dels"]
+draft = true
+weight = 2047
++++
+
+Three blocks from MC's Dugout and we were in the leafy residential grid that lies behind the endless highway strip mall: uniform clapboard houses of all shapes and sizes, each sitting in a parcel of lawn with varied assortments of vehicles, garden furniture, kids toys and topiary strewn around. And a dizzying array of places of worship; Lutheran, Islamic, Presbyterian, Pentecostal, Spirit Filled Non Denominational Love Christian Fellowship, High Praise Non Denominational Prophetic Healing &amp; Deliverance, Catholic, Holy Mhyrrbearers Orthodox, Methodist, Life Assembly of God, Peace United Church of Christ---all within a couple of square miles. Conspicuous consumption of God seems to go hand in hand with the conspicuous consumption of valuable (or not so valuable) goods as the way to gain reputability in the Midwest. No pedestrians, in fact very few sightings of any homo sapiens at all other that in passing motor vehicles, but nevertheless, surprisingly pleasant and diverting surroundings to chew the fat with a comrade and companion.
+
+Three miles or so down Clearwater drive the churches and the houses started to peter out into a strip of small businesses that would fix your plumbing or your car, look after your kids, ageing relatives or animals while you work, or sell you a lawn mower, or a flag pole, or beer and liquor. On reflection, all obviously essential services for the neighbourhood.
+After a few blocks of this Clearwater Drive abandoned its prosaic name and reverted to its utilitarian designation as County Highway 7. The environs started to feel unexpectedly rural.
+
+Aware that we were walking parallel to the Mississippi and at this point we had figured out the we could get on to a trail along a disused railway track that would take us to where the river passed close to the IHG Inn and Suites. Two miles along a perfectly straight tree lined path where we were even passed by cyclists and our destination was in sight. Cutting back up from the trail towards our billet for the night JC was looking for sustenance before retiring. We were re-entering retail purgatory at this point and there right in front of us was a an anonymous one storey box in an empty car park with a sign over the door announcing RJ's American Grill. A quick bit of research on the web indicated that there might be more to RJ's that its location and appearance indicated and sure enough behind the door was a classy looking restaurant bar. RJ's had precisely one customer: it came as no surprise to us, in fact there was a kind of inevitability to it that this was a refugee from our bus---you get very used to this kind of synchronicity on tour. We pulled up bar stools alongside Jim, the colt of our entourage and asked for the menu only to be told that the kitchen was closed. It was seven forty five. JC cut his losses and headed across the parking lot to the Pilot
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

@@ -1,5 +1,5 @@
 +++
-title = "Day Seven: St Cloud"
+title = "Day Seven: St Cloud part I"
 author = ["Ebo H"]
 date = 2023-06-08
 tags = ["dels"]
@@ -37,6 +37,6 @@ After fifteen minutes browsing the chaff of St. Cloud's outlived and outgrown li
 
 In the scant half hour I had been in Books Revisited a couple of cans of cold PBR had already been consumed at the table and JC was clearly not relishing the prospect of an evening engaging with this while sipping on alcohol free beverages.
 He announced that he was going to walk the five miles back to our hotel, reckoning it could be done off the highways.
-It was beginning to cool down and develop into a perfect summer evening, and this seemed like a much preferable option to heading back in a car to sit in a hotel room. I asked if he wanted company and fearless, with sat-nav at our disposal we set off south down 5th Avenue leaving our companion at the table attesting his disappointment at the company departing but not tempted to abandon MC's and his supply of cold PBR at this stage of the evening in lieu of a two hour walk.
+It was beginning to cool down and develop into a perfect summer evening, and this seemed like a much preferable option to heading back in a car to sit in a hotel room. I asked if he wanted company and fearless, with sat-nav at our disposal we set off south down 5th Avenue leaving our companion at the table attesting his disappointment at the company departing but not tempted to abandon the delights of MC's at this stage of the evening in lieu of a two hour urban walk.
 
 [You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

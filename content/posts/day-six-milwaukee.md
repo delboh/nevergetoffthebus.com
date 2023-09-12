@@ -3,8 +3,8 @@ title = "Day Six: Milwaukee"
 author = ["Ebo H"]
 date = 2023-06-07
 tags = ["dels"]
-draft = true
-weight = 2048
+draft = false
+weight = 2047
 +++
 
 The BMO Pavilion is right on the shore of Lake Michigan
