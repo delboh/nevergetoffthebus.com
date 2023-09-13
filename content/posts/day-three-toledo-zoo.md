@@ -17,6 +17,6 @@ The bears were shuttered behind some very secure looking steel doors. No plainti
 I can't imagine they were fooled into feeling more at home by a splash of whitewash, but maybe having professionals trying to figure out your every physical need while also doing the best they can to keep you and your newborn as healthy and happy as possible---within the obvious confines---maybe isn't so bad.
 It was hard to reconcile their situation with the unseasonal heat in Ohio, but then again northern Europeans flock to the hottest parts of their continent in the summer to bask in the searing Mediterranean sun. Maybe the bears' perception in that respect is that they have lucked in.
 
-I wandered back via the flamingos and downstairs past the stuffed yak to the great hall to eat eggs and bagels.
+I wandered back via the flamingos and downstairs past the stuffed yak to the Great Hall to eat eggs and bagels.
 
 [You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
