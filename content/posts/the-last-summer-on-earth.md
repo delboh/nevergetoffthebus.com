@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-05-31
 tags = ["dels"]
 draft = false
-weight = 2054
+weight = 2053
 +++
 
 With some trepidation, we are on our way across the Atlantic once again to spend the summer as the opening act on the Last Summer On Earth Tour.
