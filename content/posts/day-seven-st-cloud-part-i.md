@@ -1,7 +1,7 @@
 +++
 title = "Day Seven: St Cloud part I"
 author = ["Ebo H"]
-date = 2023-06-08
+date = 2023-06-08T00:00:00+01:00
 tags = ["dels"]
 draft = false
 weight = 1001

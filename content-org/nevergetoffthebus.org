@@ -421,7 +421,7 @@ It seemed inconceivable that this water flows for more than two thousand miles a
 ** DONE Day Seven: St Cloud part II
 :PROPERTIES:
 :EXPORT_FILE_NAME: st-cloud-part-ii
-:EXPORT_DATE: 2023-06-08
+:EXPORT_DATE: 2023-06-08-0001
 :END:
 
 Three blocks from MC's Dugout and we were in the leafy residential grid that lies behind the endless highway strip mall: uniform clapboard houses of all shapes and sizes, each sitting in a parcel of lawn with varied assortments of vehicles, garden furniture, kids toys and topiary strewn around. And a dizzying array of places of worship; Lutheran, Islamic, Presbyterian, Pentecostal, Spirit Filled Non Denominational Love Christian Fellowship, High Praise Non Denominational Prophetic Healing & Deliverance, Catholic, Holy Mhyrrbearers Orthodox, Methodist, Life Assembly of God, Peace United Church of Christ---all within a couple of square miles. Conspicuous consumption of God seems to go hand in hand with the conspicuous consumption of valuable (or not so valuable) goods as the way to gain reputability in the Midwest. No pedestrians, in fact very few sightings of any homo sapiens at all other that in passing motor vehicles, but nevertheless, surprisingly pleasant and diverting surroundings to chew the fat with a comrade and companion.
@@ -445,7 +445,7 @@ Aware that we were walking parallel to the Mississippi and at this point we had 
 ** DONE Day Seven: St Cloud part I
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-seven-st-cloud-part-i
-:EXPORT_DATE: 2023-06-08
+:EXPORT_DATE: 2023-06-08-0000
 :END:
 
 Saint Cloud---the patron saint of screwed up middle america. Our first day in the country without a show. CJ deposited us at a cloned suites hotel in a sub-urban sprawl of strip mall franchises, a landscape of two storey retail, entertainment and `hospitality' that stretched to the horizon. There was nothing that even vaguely resembled what passes for a city in the civilized world to be seen. The staff were wide-eyed at a fancy looking Prevost tour bus pulling in to the parking lot---never a good sign. But they were eager to please and had arranged for rooms to be made ready for us when we arrived at breakfast time which was a massive plus.
