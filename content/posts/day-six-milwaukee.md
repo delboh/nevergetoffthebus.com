@@ -22,6 +22,6 @@ Pretty soon I ended up in Veteran's Park looking at a statue of General Douglas 
 It had never quite dawned on me on previous visits just how much US culture, and indeed its society in general is imbued with militarism.
 You just would not see this kind of display in the UK. Sure, there was Paul Cummins and Tom Pipers installation _Blood Swept Lands and Seas of Red_ at the Tower of London where of hundreds of thousands of ceramic poppies were placed in the moat. But there was metaphor and shame in visually referencing a river of blood flowing around such an iconic site. There is no subtlety or irony that I can see in surrounding a statue of an arrogant warmonger with tens of thousands of US flags.
 
-I headed back along the coast of Lake Michigan past a version of Robert Indiana's \`Love' sculpture that sits outside the Milwaukee Museum of Modern Art. Does this stand in opposition to the display in Veteran's Park? I suspect not: somehow the American Creed can embrace both. Doublethink is
+I headed back along the coast of Lake Michigan past a version of Robert Indiana's \`Love' sculpture that sits outside the Milwaukee Museum of Modern Art. Does this stand in opposition to the display in Veteran's Park? I suspect not: somehow the American Creed can embrace both. Doublethink should be a byword for how this schizophrenic country functions.
 
 [You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)

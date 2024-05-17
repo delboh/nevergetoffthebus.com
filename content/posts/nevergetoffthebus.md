@@ -1,10 +1,439 @@
 +++
 author = ["Ebo H"]
-lastmod = 2023-06-07T03:32:08+01:00
 draft = false
 +++
 
 ## Never get off the bus <span class="tag"><span class="dels">dels</span></span> {#never-get-off-the-bus}
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifty-four {#day-fifty-four}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifty-three: Chicago O'Hare {#day-fifty-three-chicago-o-hare}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifty-Two: Clarkston {#day-fifty-two-clarkston}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifty-one: Cuyahoga Falls {#day-fifty-one-cuyahoga-falls}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifty: Akron {#day-fifty-akron}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-nine: Philadelphia {#day-forty-nine-philadelphia}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-eight: Portsmouth {#day-forty-eight-portsmouth}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-seven: Charleston {#day-forty-seven-charleston}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-six: St Augustine {#day-forty-six-st-augustine}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-five: Valdosta {#day-forty-five-valdosta}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-three: Wilmington {#day-forty-three-wilmington}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-two: Wilmington {#day-forty-two-wilmington}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty-one: NYC {#day-forty-one-nyc}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Forty: Lewiston {#day-forty-lewiston}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-nine: Buffalo {#day-thirty-nine-buffalo}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-eight: Boston {#day-thirty-eight-boston}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-seven: Gilford {#day-thirty-seven-gilford}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-six: Uncasville {#day-thirty-six-uncasville}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-five: Red Bank {#day-thirty-five-red-bank}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-four: Washington DC {#day-thirty-four-washington-dc}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-three: Raleigh {#day-thirty-three-raleigh}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-two: Raleigh {#day-thirty-two-raleigh}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty-one: Nashville {#day-thirty-one-nashville}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirty: Greensboro {#day-thirty-greensboro}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-nine: Atlanta {#day-twenty-nine-atlanta}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-eight: New Orleans {#day-twenty-eight-new-orleans}
+
+How long does it take for the river to flow to here from Minnesota. Could I be looking at some of the same water that passed me three weeks ago in St. Cloud?
+
+I'd never really thought about rivers as being \`great' before but
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-seven: Tuscaloosa {#day-twenty-seven-tuscaloosa}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-six: Tuscaloosa {#day-twenty-six-tuscaloosa}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-five: Austin {#day-twenty-five-austin}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-four: Austin {#day-twenty-four-austin}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-three: Indio {#day-twentythree-indio}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-two: Los Angeles {#day-twentytwo-los-angeles}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty-one: San Diego {#day-twentyone-san-diego}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twenty: Hollywood {#day-twenty-hollywood}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Nineteen: Saratoga {#day-nineteen-saratoga}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Eighteen: Cupertino {#day-eighteen-cupertino}
+
+After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable CJ Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.
+
+A quarter of a mile along the street, Cupertino mall was the likeliest looking place nearby for food and drink
+
+I don't expect to ever find myself in a squeakier clean place full of squeakier clean people
+
+a large portion of the squeaky clean people wandering among the eateries exuded a smugness that did not sit well with their youthfulness. You see the same smugness in the residents of the upper east side of Manhattan
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Seventeen: Woodinville {#day-seventeen-woodinville}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Sixteen: Troutdale {#day-sixteen-troutdale}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fifteen: Portland {#day-fifteen-portland}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Fourteen: Nampa {#day-fourteen-nampa}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Thirteen: Salt Lake City {#day-thirteen-salt-lake-city}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Twelve: Red Rocks {#day-twelve-red-rocks}
+
+This place gets talked up so much that I was expecting to be disappointed.
+
+After the show last night we had spent the night in faceless up-market lodgings
+in Littleton at the western edge of the city of Denver.
+
+Twenty five miles away and still in the city.
+
+(Travelling twenty five miles in a UK city is inconceivable. Twenty five miles from central London will put you in Gravesend or Slough. From central Glasgow you could be on the Isle of Cumbrae or at the top of Ben Lomond.)
+
+Red Rocks is only a few miles along the highway that runs past the hotel entrance and for the moment at least seem to mark the limit of the metropolitan area. Beyond that all that is to be seen are some unimpressive looking scrubby hills.
+
+The day did not start well.
+I joined CJ at the hotel breakfast.
+
+After devouring a waffle he ran from the table to a nearby bathroom and I could hear him being violently ill. He did not reappear at the table. After a few minutes I checked the bathroom but there is no sign of him.
+
+He had talked about stomach problems ()
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Eleven: Denver {#day-eleven-denver}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Ten: Kansas City {#day-ten-kansas-city}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Nine: Mankato {#day-nine-mankato}
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Day Eight: Waite Park {#day-eight-waite-park}
+
+Our routing would take us to New Orleans and the Mississippi Delta in three weeks and it seemed crucial to go down and see the Great River close to its source before we left.
+
+After the previous evening's stroll back from the pub with JC I had figured out that there was public boat access not far from where we were staying. So before CJ boarded the Prevost to guide us to Waite Park I donned my running shoes and headed down there.
+
+Even this far north the Mississippi is a big river: 300 yards to the opposite bank at the River Bluffs slipway.
+
+It was green and lush at the slipway and I considered swimming. But I had no idea how fast the water was moving, and the place was deserted so I made do with dipping my feet in.
+
+It seemed inconceivable that this water flows for more than two thousand miles across the entire length of the United States to the Gulf of Mexico.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Seven: St Cloud part II {#interlude-travels-with-charley}
+
+Three blocks from MC's Dugout and we were in the leafy residential grid that lies behind the endless highway strip mall: uniform clapboard houses of all shapes and sizes, each sitting in a parcel of lawn with varied assortments of vehicles, garden furniture, kids toys and topiary strewn around. And a dizzying array of places of worship; Lutheran, Islamic, Presbyterian, Pentecostal, Spirit Filled Non Denominational Love Christian Fellowship, High Praise Non Denominational Prophetic Healing &amp; Deliverance, Catholic, Holy Mhyrrbearers Orthodox, Methodist, Life Assembly of God, Peace United Church of Christ---all within a couple of square miles. Conspicuous consumption of God seems to go hand in hand with the conspicuous consumption of valuable (or not so valuable) goods as the way to gain reputability in the Midwest. No pedestrians, in fact very few sightings of any homo sapiens at all other that in passing motor vehicles, but nevertheless, surprisingly pleasant and diverting surroundings to chew the fat with a comrade and companion.
+
+Three miles or so down Clearwater drive the churches and the houses started to peter out into a strip of small businesses that would fix your plumbing or your car, look after your kids, ageing relatives or animals while you work, or sell you a lawn mower, or a flag pole, or beer and liquor. On reflection, all obviously essential services for the neighbourhood.
+After a few blocks of this Clearwater Drive abandoned its prosaic name and reverted to its utilitarian designation as County Highway 7. The environs started to feel unexpectedly rural.
+
+Aware that we were walking parallel to the Mississippi and at this point we had figured out the we could get on to a trail along a disused railway track that would take us to where the river passed close to the IHG Inn and Suites. Two miles along a perfectly straight tree lined path where we were even passed by cyclists and our destination was in sight. Cutting back up from the trail towards our billet for the night JC was looking for sustenance before retiring. We were re-entering retail purgatory at this point and there right in front of us was a an anonymous one storey box in an empty car park with a sign over the door announcing RJ's American Grill. A quick bit of research on the web indicated that there might be more to RJ's that its location and appearance indicated and sure enough behind the door was a classy looking restaurant bar. RJ's had precisely one customer: it came as no surprise to us, in fact there was a kind of inevitability to it that this customer was a refugee from our bus---you get very used to this kind of synchronicity on tour. We pulled up bar stools alongside Jim, the ever smiling colt of the entourage and asked for the menu only to be told that the kitchen and the bar were closed. It was seven forty five. JC cut his losses and headed across the parking lot towards the lights of a 24 Hour Pilot Travel Centre in search of delicious and nutritious snackage that would get him through the evening. Jim and I made for the Prevost in search of any tolerable red wine that might have been overlooked on the previous night's journey that we could drink at the hotel picnic tables as a bright orange sun disappeared from the cloudless Minnesota skies behind the parking lots.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo todo TODO">TODO</span> Interlude: Travels With Charley {#interlude-travels-with-charley}
+
+:EXPORT_FILE_NAME: interlude-travels-with-charley
+:EXPORT_DATE: 2023-06-08
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Seven: St Cloud part I {#day-seven-st-cloud-part-i}
+
+:EXPORT_FILE_NAME: day-seven-st-cloud-part-i
+:EXPORT_DATE: 2023-06-08
+
+Saint Cloud---the patron saint of screwed up middle america. Our first day in the country without a show. CJ deposited us at a cloned suites hotel in a sub-urban sprawl of strip mall franchises, a landscape of two storey retail, entertainment and \`hospitality' that stretched to the horizon. There was nothing that even vaguely resembled what passes for a city in the civilized world to be seen. The staff were wide-eyed at a fancy looking Prevost tour bus pulling in to the parking lot---never a good sign. But they were eager to please and had arranged for rooms to be made ready for us when we arrived at breakfast time which was a massive plus.
+
+A day stuck in a room, or even at the poolside in a place like the IHG Holiday Inn Express &amp; Suites, St. Cloud is not an enticing prospect.
+By early afternoon after a few hours sleep, sleep made very precious by being the first since we left Philadelphia airport that was not in a bunk travelling at speed on the interstates, the troops were getting restless.
+
+Everyone has their own agenda on non-show days on tour.
+For some, the lure of a television with king size bed with air conditioning, possibly complemented by a bottle or two of New Zealand Sauvignon Blanc purchased and stashed in expectation, is too great to resist and they are unlikely to be seen again until bus call the following day.
+For others a shot of tequila (if there is any left from the previous evening) before alighting the Prevost sets the mood for the days activities.
+Finding a competitively priced supply of PBR might be all it takes to make the day a special one.Getting laundry done can be a pressing concern.
+
+Not excited by any of these options I ventured to reception and engaged in conversation about where might be a good place to get some food and hang out in the sunshine. Aware that this might not elicit the ideal response from your typical mid-westerner whose ideal of a place to hang out might be a mall with a cineplex and a sports bar with a terrace and maybe a former branch of Border's now selling remaindered self-help books and substandard skinny lattés, I tried to head off the conversation---\`\`Somewhere downtown where I can walk around.'' I was joined in this exchange by another of our venerable entourage who emphasised his desire to partake of what made Milwaukee famous at reasonable prices. After a friendly exchange about where we were all from (Emily was far from her home near St Augustine Florida, a place we were headed in a few weeks) and input from an unseen contributor in the back office we were given a clear recommendation. \`\`The Boulder Tap House. Yeah, The Boulder. You'll like it there.'' We summoned a car and after ten minutes of driving through the strip malls we were deposited at the entrance. Sparse two-storey retail surrounded by empty parking lots continued to spread as far as could be seen in every direction.
+
+This is a mid-west I had never really experienced. The mammoth tours we undertook in the nineties (and on an smaller scale last year) have taken me to forty-five of the fifty states. But we were in clubs and theatres in college towns and cities. Sure, some of those cities were pretty screwed up urban environments. But the worst of these places (Detroit, Wichita, Louisville) still looked like they had once functioned as towns and, with a bit of TLC, might even do so again. This is something altogether more vulgar: a constantly churning and creeping morass of low rent businesses with short shelf lives. A large portion of the lots were up for rent or just abandoned. None of it can be accessed without private motor transport. You can find remnants of this is in the UK but the fact is that there simply is nowhere in Europe that has the space for this kind of culturally (and visually) hideous urban retail sprawl on this scale. Minnesota is vast and flat and, outside of the cities, underpopulated. There is no shortage of viable urban real estate here.
+
+The Boulder Tap House had a daunting array of brews and an A3 sized laminated menu that offered a hundred versions of the same thing---bread with some stuff in it with fried stuff on the side. Cheese on everything. The brews were, not surprisingly, better than the food but with no budget PBR on offer so my companion's boxes were not ticked. The barkeep clearly knew his job though, and a barkeep's job is to know his customers. Having dispatched the sandwiches and a gourmet brew, and understanding that unique symbiotic relationship between skilled barkeep and customer, these customers knew that this was the person to guide us to where things were at in the city of St. Cloud.
+
+We were directed to 5th Avenue and West St. Germain, and after another ten minute ride through strip mall hell we were in something that looked like it might once have been a city: a few blocks of four storey brick buildings that had once have been stores or banks or warehouses. A shopping mall and a grim looking municipal conference centre with a grimmer looking Marriot attached lurked in the background.
+But there was a bar on each corner of 5th and St. Germain and a funky looking arts centre just down the street. Apart from those though, everything seemed to be for sale, including the shopping mall and the conference centre. Downtown St. Cloud did not look like it would gentrify any time soon.
+
+MC's Dugout Bar and Grill occupies the north west corner of the intersection and who should be sat outside sipping on a Heineken Zero, none other that our intrepid leader. Maybe we should have been surprised by this but years of touring teaches you that, almost spontaneously, a behavioural entropy develops that can mean that even when the tour manager has put their phone off the hook and is prostrate on a king sized bed half way through watching _Deadpool_ for the fourth time, about to open a second bottle of Oyster Bay somehow everyone still ends up in the right place at the right time. That JC had managed to make his way there directly from the IHG Holiday Inn Express and Suites certainly indicated that he had obtained better initial intel than us from the outset, but the end result was the same.
+
+MC was down-to-earth enough to dispense PBR from his funky basement bar so certain buttons were pushed. JC was in high functioning mode and not tempted to move on from Heineken Zero to anything more destructive. In the ten minutes it took us to get there I had gleaned from the internet that there was a second hand bookshop a block from the bar. It was still only 5 in the pm and rather than order another drink I took the opportunity to indulge the bibliophile in me and I excused myself from table and headed off past the shuttered shopping mall in pursuit.
+
+Being in a provincial US bookshop was more of a nostalgia trip than retail therapy. There was a time when I occupied my days off on US tours by seeking out the local second hand book shops. In a time before Web 2.0 this was not a trivial thing to do. Motel rooms still had telephones and telephone directories---with the second hand book section from the yellow pages torn out and in my pocket I would consult with hotel reception about which shops were nearby, ideally obtain a map of the area (in the days before mobile phone apps hotels generally had a supply of street maps to give out), circle the locations on the map, plan a route, and set off in a taxi to the first one on my itinerary. I did buy books (and have a collection of nice publishers editions of US classics that I picked up along the way) I had realised that the location of second hand bookshops was a pretty good indication of what part of town might be good to hang out in. Second hand bookshops came in two general categories. One was a place where monied bibliophiles purchased their incunabula and modern first editions. These were generally in a fancy bit of downtown. The other was a more down-at-heel, bohemian kind of place whose business was acquiring the libraries of unremarkable people in search of the occasional item of value that could be sold to the fancy downtown store for a few hundred bucks, and was filled with, well, pretty much everything else. Great places to browse and often a marker for cafés, vintage clothes retailers and head shops in a hip part of town. (which, not unreasonably, typifies second hand book sellers coffee drinking, vintage clothes wearing bohemians.)
+The bookshop in St. Cloud fitted the second category perfectly, although probably without an upmarket local sibling.
+
+After fifteen minutes browsing the chaff of St. Cloud's outlived and outgrown libraries in Books Revisited the proprietor wanted to shut up shop. Rather than wander out empty handed, which seemed churlish as he clearly was not overrun by walk-in customers, I told him I was on a coast to coast tour of the US and looking for American road novels to read on the way; _On the Road_, or _Zen and the Art of Motorcycle Maintenance_. Not having either of those he fetched a copy of John Steinbeck's _Travels with Charley_, a book I had never come across in spite of reading a lot of Steinbeck in my youth. It seemed to fit the bill perfectly and I wandered back round to MC's with my purchase.
+
+In the scant half hour I had been in Books Revisited a couple of cans of cold PBR had already been consumed at the table and JC was clearly not relishing the prospect of an evening engaging with this while sipping on alcohol free beverages.
+He announced that he was going to walk the five miles back to our hotel, reckoning it could be done off the highways.
+It was beginning to cool down and develop into a perfect summer evening, and this seemed like a much preferable option to heading back in a car to sit in a hotel room. I asked if he wanted company and fearless, with sat-nav at our disposal we set off south down 5th Avenue leaving our companion at the table attesting his disappointment at the company departing but not tempted to abandon the delights of MC's at this stage of the evening in lieu of a two hour urban walk.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Six: Milwaukee {#day-six-milwaukee}
+
+The BMO Pavilion is right on the shore of Lake Michigan
+and the view from the bus when I woke was of the sun on the water. A welcome relief from the drizzle in Chicago the previous night.
+The geography of the city of Chicago somehow seems to indicate that it is on a lake
+but I always have to remind myself that Milwaukee is not on the sea
+Then again, Lake Michigan is about the size of the Irish Sea:
+you could sail due north for three hundred miles from Chicago before you would land in Canada---the Michigan coast is way beyond the horizon seventy miles to the east of Milwaukee.
+
+A beautiful clear breeze from the lake greeted me when I clambered down from the Prevost and with half-an-hour to kill before catering would be operational I plumped for the the horrifyingly un-rock-and-roll option of a pre-breakfast run
+and set off into the tiny parcel of prairie that is Lakeshore State Park for a pre-breakfast run.
+
+Pretty soon I ended up in Veteran's Park looking at a statue of General Douglas MacArthur that gazed imperiously over a field of four inch high Stars and Stripes flags, each one representing a Wisconsinite killed in action since the 1914--18 War. Fifteen thousand and fifteen flags.
+
+It had never quite dawned on me on previous visits just how much US culture, and indeed its society in general is imbued with militarism.
+You just would not see this kind of display in the UK. Sure, there was Paul Cummins and Tom Pipers installation _Blood Swept Lands and Seas of Red_ at the Tower of London where of hundreds of thousands of ceramic poppies were placed in the moat. But there was metaphor and shame in visually referencing a river of blood flowing around such an iconic site. There is no subtlety or irony that I can see in surrounding a statue of an arrogant warmonger with tens of thousands of US flags.
+
+I headed back along the coast of Lake Michigan past a version of Robert Indiana's \`Love' sculpture that sits outside the Milwaukee Museum of Modern Art. Does this stand in opposition to the display in Veteran's Park? I suspect not: somehow the American Creed can embrace both. Doublethink should be a byword for how this schizophrenic country functions.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Five: Chicago {#day-five-chicago}
+
+Back to another back stage parking lot. This one with military levels of security; buses and the trucks checked with mirrors as they enter, metal detectors at the entrances to the lot, a second security ring and another metal detector to get to and from the Prevost, and a third level of security and a third metal detector to get on to the stage. Something to do with the levels of gun violence in Chicago. At least they take it seriously here, even if no one seems to care that everyone passing through the detectors has something on their person that sets them off.
+
+In some states it seems like a given that there are people with weapons around. Ed has story about asking before going on stage at a show in the Midwest if anyone had something to cut a loose thread from his clothes just before he went on stage and half-a-dozen blades instantaneously appeared around him produced from the belts and pockets of the local crew. I don't doubt for a second that a few handguns would have been produced from the same company if considered necessary. [A moment's research](https://oneaimil.org/the-issue/impact-of-gun-violence/) reveals the amazing statistic that on average, someone is killed with a gun every 6 hours in Illinois. So maybe it's all necessary.
+
+In a separate compound a selection of upmarket patio furniture and outdoor games was arranged on an astro-turf lawn and encircled by Portakabins kitted out as dressing rooms. One of the venue staff who was purposefully arranging cushions on the raffia sofas approached me as I entered (setting off another metal detector, obviously) and introduced themselves to me as the back stage experience coordinator. Fair enough, but a hell of a job description.
+
+Our Portakabin was indeed coordinated. Not just the furnishings which included a record player and a selection of vinyl that you might want to play. Attention had been paid to the arrangement of the fruit: apples, bananas and clementines arranged in a rotating sequence on a rectangular platter. (I was relieved that the ordering on the platter was not alphabetical---that would have been just too weird: the sequence started with a banana. But maybe noticing this was even weirder.)
+
+The Northerly Island Pavilion (sponsored that week by the Huntingdon Bank) is ostensibly down town but in reality it is a couple of miles from the site to anywhere worth visiting. After being attacked by some unidentified territorial nesting birds on a sojourn to the !2th Street Beach on the east of the island I opted to return to the coordinated ambience of our designated Portakabin and chill out to the Mavis Staples album I had spotted there. This proved to be a useful choice---it started pissing down just as I got back. And everyone else seemed to have been tempted to head for the city so, with the place to myself I was able to shut the door, close the curtains and catch up on some sleep before the business of the day began.
+
+The Pavilion consists of an ad-hoc stage of the kind of dimensions you might expect in a football stadium with a similarly ad-hoc arrangement of seating, VIP areas and the standard array of Live Nation Inc. concessions. Anything but intimate. But the people of Chicago have always been on board with our band and a few hundred aficionados scattered around the seven thousand sparsely populated seats did their level best to make us feel appreciated.
+
+It was cold and grey when we came off stage but the seats were starting to fill up a bit. By the time Semisonic got to their sing-along finale it was starting to feel a little bit like a concert. As the Ladies took the stage, darkness descended and that always creates a bit of spectacle from out front. But from back stage in these kinds of places there isn't really much to see (or to even to hear in these days of in-ear monitors).
+
+I ventured out into the bleachers for a bit and sure enough the ticket holding Chicagoans seemed to be enjoying themselves. But the drizzle drove me back to the shelter of the backstage compound. The fire pit sat damp and unlit and the cushions had gone. There was nothing for it but to retire to the safety of the bus and the sanctuary of a few glasses of whisky before trying to get some sleep before the short drive to Milwaukee. I have had better days in Chicago.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Four: Indianapolis {#day-four-indianapolis}
+
+This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.
+It is only a three hour drive from Toledo and bus came to rest outside HI-FI Indy early.
+The club was on Fountain Square which revealed itself to be a designated national historic district and a very cool neighbourhood indeed.
+Bus driver CJ and I were the first customers in a hipster coffee shop a block away from our resting place when it opened at 7am.
+
+The short walk to Bovaconti Coffee in the chilly morning sun past the record stores and bars in the two storey red brick buildings of Virginia Avenue felt like a luxurious pleasure
+and a return to a kind of sanity after the grim utility of the back lots of Ohio amphitheatres.
+
+And hard to imagine better company for breakfast. So many US citizens reveal themselves to be self obsessed to a degree that implies a kind of madness: they are unable to talk about anything other than themselves. CJ is not made in that mould. He revealed himself to be mindful and considerate of those around him and circumspect in his conversation. I did discover that he was from a Pennsylvania mining family, and that his grandfather worked every day in a mine that he owned until he died at the age of 82 and that CJ learned to operate the trucks at that mine when he was a kid. Now he drives country music stars and, occasionally, obscure Scottish rock bands around the USA. I hope he writes his memoirs.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day Three: Toledo Zoo {#day-three-toledo-zoo}
+
+Now this was unexpected. A show in a zoo.
+Breakfast was served in the Great Hall in the basement of the Toledo Museum of Science---through the doors, turn right at the huge stuffed yak and head down the stairs.
+The stage was located between the flamingos (more ludicrously pink than you could imagine and stuck in a cage that they could not possibly fly in) and the aquarium.
+Lions could be heard roaring querulously from deep in their lair.
+
+I would never go out of my way to visit a zoo but being here with 'backstage' access and out of hours seemed like an exciting prospect. A conversation with the first shift zookeepers as to what I should go to see before the gates opened revealed that there were a pair of polar bears with a recently born cub. I decided that I should shelve my reservations about cooping up wild animals and set off though a tunnel under a freeway towards Toledo Zoo's Arctic Encounter where the polar bears roamed. But all that was to be seen there was a couple of staff clearing out the bear shit and power-washing the white painted rocks to keep them sparkling white for the visitors.
+The bears were shuttered behind some very secure looking steel doors. No plaintive noises here though, and I fantasised a scene of ursine familial bliss in the fake snow cave.
+I can't imagine they were fooled into feeling more at home by a splash of whitewash, but maybe having professionals trying to figure out your every physical need while also doing the best they can to keep you and your newborn as healthy and happy as possible---within the obvious confines---isn't so bad.
+It was hard to reconcile their situation with the unseasonal heat in Ohio, but then again northern Europeans flock to the hottest parts of their continent in the summer to bask in the searing Mediterranean sun. Maybe the bears' perception in that respect is that they have lucked in.
+
+I wandered back via the flamingos and downstairs past the stuffed yak to the Great Hall to eat eggs and bagels.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day two: Cincinnati, Ohio {#day-two-cincinnati-ohio}
+
+Everyone was a little more chilled today. The venue was a proper shed---outdoor but with a roof to protect audience and stage from the elements. Just as hot as yesterday but we didn't have the sun actually cooking us as we played. In fact by show time it was not unpleasant on the stage. No general admission though, so the love we got in Columbus from directly in front of the stage from the few souls gathered there who bought tickets because we were on the bill is missing. But the love was still there scattered around the cavernous space and by the end of our set it was starting to feel like there might be a concert in the room.
+
+Semisonic put on a great show after us, and BNL know exactly how to take the audience with them when they take the stage. Buy 10.30 they had the PNC Pavilion in the palms of their hands---Ed had five thousand people singing every word along with him and we were starting to see how this is all meant to work.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
+
+
+### <span class="org-todo done DONE">DONE</span> Day One: Columbus, Ohio {#day-one-columbus-ohio}
+
+It seems appropriate that we are back in Ohio where the we played the final show of last year's US tour---Columbus this time. But it was touch and go getting here.  A catalogue of mishaps on the journey---phantom bags; lost (and, thankfully, found) passports; a two and a half hour delay at Heathrow airport that left us stranded in Philadelphia; a disagreement with US Customs that almost resulted in us having all of our guitars impounded. But we made it to the show with an hour to spare, a little frayed around the edges but in one piece and with the guitars.
+
+The scene at Kemba Live was one of developing chaos.
+Hundreds of cases (including two containing pinball machines) had spewed forth from three forty foot semis and filled the huge backstage.
+Backline for us and Semisonic (the second support for the first half of the tour) along with hundreds of boxes of merchandise were added to this mountain of stuff as the day unfolded.
+
+It was stupidly hot for early June, but a veneer of calm and politeness remained intact among the fifty odd people employed to deal with this mess. Whether the weather aided or hindered the mood backstage is hard to say
+but whoever designed the venue had made no concessions for any performance on the stage before sun down on such a day. The fierce mid-west sun beat down on us during the sound check and by show time it was directly in our faces.
+
+Dan from Semisonic described being on stage in the sunshine to me as "mysteryless", but it was so freaking hot our concern turned out not to be the lack of mystery but avoiding heat exhaustion. Kris, who has pretty strict conception of what can and can't be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief crouched behind his amp in the only shade he could find. In these conditions everything had the potential to feel like nasty hard work. But people work hard to make a living. And no matter how much grief comes your way on tour, playing music every night isn't really work. We are, as our tour comedian Buddy never tires of telling us and anyone else who enquires about the state of things, living inside the rainbow.
+
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
 
 
 ### <span class="org-todo done DONE">DONE</span> The Last Summer On Earth {#the-last-summer-on-earth}
@@ -13,29 +442,18 @@ With some trepidation, we are on our way across the Atlantic once again to spend
 
 The prospect of living on a bus for seven weeks
 and playing thirty odd shows across the USA certainly has its appeal.
-
 The tour will take us to some exotic places; Tuscaloosa, Alabama. Mankato Minnesota. Nampa, Idaho. Indio, California. We play at Red Rocks, Colorado and the Greek Theater in Los Angeles.
-
 The main act is The Barenaked Ladies who are the organisers of this undertaking. They have run similar ventures before and by all accounts they run a cool operation and take pains to look after everyone on board.
 
-But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. There will be a lot of downtime. Time to write a novel, or learn a language. Or something.
+But (and it is a big but) we will be on stage first as part of a three band bill. It is a long time since we played as a support and it is kinda hard to get my head around going on tour to play ten songs in the early evening sun. There will be a LOT of down time. Our bus will travel in convoy with the entourage so we will be at the venues until 1am and arrive with the trucks at 8am. Sound check at 5pm with show time at 7. We will be off stage by 7.40. Time to write a novel, or learn a language. Or something.
 
-But my experience is that it is hard to imagine settling down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as \`sheds' (or even \`boutique sheds' in the business) the preciousness of time as a  commodity is undermined by always being in a state of waiting for something---access to showers, a runner to deliver something quotidian but nevertheless mission critical that was left at the previous venue, a guitar to be restrung. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling long the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
+But my experience is that it is hard to  settle down to anything constructive on show days even if you have a nice hotel room at your disposal. On the back lots of what are euphemistically referred to as \`sheds', or even \`boutique sheds' in the business, the preciousness of time is undermined by always being in a state of waiting for something---access to showers, food,  a runner to deliver something, a guitar to be restrung, sound check, show time. Add to this a lack of REM sleep that comes built-in to a lifestyle where a part of your brain remains aware that you are hurtling along the interstate at 65mph even while you are dreaming about something else and it can be very hard to persuade your being to concentrate on anything other than the oversaturated pixels of an OLED screen.
 
-We have done this kind of thing before, albeit thirty years ago. And we will be looked after on this, and looking after ourselves. Which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took part of a large part of the day, one way or another. It seemed big and clever (and I had a lot of fun, probably much more than I even remembered at the time). But even if the spirit took me, we are not going to be in places where partying after the shows will be the order of the day.
+We have done this kind of thing before, albeit thirty years ago, and it was a shamble. But we will be looked after on this, and looking after ourselves, which was not the mindset when we toured in the nineties. A large part of my schedule then was built around whisky consumption which took care of a large part of the day, one way or another. It seemed big and clever then and I had a lot of fun (probably much more than I even remembered at the time) and went to a lot of great bars. But if, heaven forbid, the spirit took me after a week or seven on the road we will not be in places where partying after the shows will be the order of the day.
 
 Maybe this time I will find time to write that novel.
 
-
-### <span class="org-todo done DONE">DONE</span> Day One {#day-one}
-
-Back in Ohio---Columbus this time. A catalogue of mishaps on the journey phantom bags, lost (and, thankfully, found) passports, a two and a half our delay at Heathrow airport that left us stranded in Philadelphia, a disagreement with US Customs that could have resulted in us having all of our guitars impounded. But we made it to the show.
-
-It was hot and there was no shade on the stage. The sinking sun was directly in our faces which makes sense I suppose: if the sun set behind the stage it would have been in the audiences eyes.
-
-Dan from Semisonic described being on stage in the sunshine as mysteryless. But our concern turned out not to be the lack of mystery but avoiding heat exhaustion. Kris, who has pretty strict conception of what can and cant be worn on a rock-and-roll stage, was reduced to wearing a bucket hat and at one point during the set sought relief in the patch of shade behind his amp. It seemed like hard work but, hey, people work hard to make a living. And no matter how much grief comes your way on tour, playing every night isn't really work.
-
-We are, as Buddy never tires of telling us, living inside the rainbow.
+[You can subcribe to Never Get Off The Bus here](https://never-get-off-the-bus.ghost.io/#/portal/)
 
 
 ### <span class="org-todo done DONE">DONE</span> Cleveland, Ohio {#cleveland-ohio}
@@ -179,7 +597,7 @@ Ten minutes later my coffee cup has been topped-up at least ten times and my And
 
 ### <span class="org-todo done DONE">DONE</span> Western or English dressage {#western-or-english-dressage}
 
-The first mission of the day when Gary parks the bus in the morning, in fact the only mission of the day prior to sound check at 5 pm, is to find a good spot for brunch. Berkeley looks promising. I set off from the bus down Shattuck Avenue and every third door is a coffee shop. Presented with such a excess of places to eat eggs I ask a security guard outside a bank where would be a good place to have breakfast. “Sit down?” he comes straight back with. Sure, I say.
+ The first mission of the day when Gary parks the bus in the morning, in fact the only mission of the day prior to sound check at 5 pm, is to find a good spot for brunch. Berkeley looks promising. I set off from the bus down Shattuck Avenue and every third door is a coffee shop. Presented with such a excess of places to eat eggs I ask a security guard outside a bank where would be a good place to have breakfast. “Sit down?” he comes straight back with. Sure, I say.
 “Julia’s” he replies without hesitation and then, gesturing down University Avenue qualifies with a vague, “Or there are some places down there”. Figuring that this guy probably has breakfast in Julia’s before work every day I decide that this is surely the place to go for eggs and coffee. I look it up on my phone and it’s a five minute walk, a couple of blocks off the main drag of WeWork lattes. Looks perfect.
 
 A short stroll in the emerging morning sun and I am standing out front of 2315 Durant. This is not the local diner I was expecting—I am outside a fantastic, towering American Gothic building with a brass plaque announcing it as the Berkeley Woman’s Club, built 1927. But sure enough a board on the sidewalk  advertises Julia’s Restaurant on the second floor. It looks like a very private kind of establishment, the kind of place you might need to card into but, fuck it, the place came recommended; I figure their there must be a seriously cool nineteen twenties diner up there. I tailgate through the imposing diamond leaded doors, stroll confidently past the concierge with a polite ‘how are you today’ and head up a very grand staircase to the second floor. It takes me a moment to locate the entrance to the eatery off the vast landing. The maître d'hôtel, Karel, leads me to a table laid out for silver service and pours water into a cut crystal glass. Everyone else in Julia’s looks like they are here to audition for the lead role in a John Huston bio-pic. The conversation between the two Ernest Hemingway lookalikes at the next table is about their ranches and their preferred styles of dressage. (I now know that there are two styles of dressage popular in this part of the world: Western and English.)
