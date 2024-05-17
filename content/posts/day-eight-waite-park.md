@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-09
 tags = ["dels"]
 draft = true
-weight = 2046
+weight = 1001
 +++
 
 Our routing would take us to New Orleans and the Mississippi Delta in three weeks and it seemed crucial to go down and see the Great River close to its source before we left.

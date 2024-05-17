@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-08
 tags = ["dels"]
 draft = false
-weight = 2049
+weight = 1001
 +++
 
 Saint Cloud---the patron saint of screwed up middle america. Our first day in the country without a show. CJ deposited us at a cloned suites hotel in a sub-urban sprawl of strip mall franchises, a landscape of two storey retail, entertainment and \`hospitality' that stretched to the horizon. There was nothing that even vaguely resembled what passes for a city in the civilized world to be seen. The staff were wide-eyed at a fancy looking Prevost tour bus pulling in to the parking lot---never a good sign. But they were eager to please and had arranged for rooms to be made ready for us when we arrived at breakfast time which was a massive plus.

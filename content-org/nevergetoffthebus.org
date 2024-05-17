@@ -1,6 +1,6 @@
 #+hugo_base_dir: ../
 #+hugo_section: ./posts
-#+hugo_weight: auto
+#+hugo_weight: 1001
 #+hugo_auto_set_lastmod: nil
 
 #+author: Ebo H
@@ -420,7 +420,7 @@ It seemed inconceivable that this water flows for more than two thousand miles a
 
 ** DONE Day Seven: St Cloud part II
 :PROPERTIES:
-:EXPORT_FILE_NAME: interlude-travels-with-charley
+:EXPORT_FILE_NAME: st-cloud-part-ii
 :EXPORT_DATE: 2023-06-08
 :END:
 

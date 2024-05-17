@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-04-14
 tags = ["dels"]
 draft = false
-weight = 2032
+weight = 1001
 +++
 
 The World Cafe is surrounded on two sides by elevated streets. The stage door is under an elevated rail track and mile long freight trains with graffiti covered containers stacked two high on the flat-beds clatter past at walking pace fifty feet overhead.

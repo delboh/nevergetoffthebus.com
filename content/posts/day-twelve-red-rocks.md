@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-13
 tags = ["dels"]
 draft = true
-weight = 2012
+weight = 1001
 +++
 
 This place gets talked up so much that I was expecting to be disappointed.

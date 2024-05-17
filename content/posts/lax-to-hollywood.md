@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-03-25
 tags = ["dels"]
 draft = false
-weight = 2042
+weight = 1001
 +++
 
 The driver that picks us up at LAX to deliver us to the hotel at Hollywood and Highland—the centre of very deepest circle of  Los Angeles—is a gentle spoken bear of a man named, appropriately enough, Virgil. He swaps his cowboy hat for an ominously Trumpian red baseball cap as he gets into the driving seat but I can't see the front of it as he drives. Virgil has his phone guide the Econoline via a commodious route through the steam-rollered smorgasbord of Los Angeles culture on freeways that take us past the The Getty and Universal City.

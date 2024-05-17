@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-04-18
 tags = ["dels"]
 draft = false
-weight = 2029
+weight = 1001
 +++
 
 The famous skyline has been anonymized by the towers of glass that rise above Hudson Yards leaving only a glimpse of the needle on top of the Empire State building visible as we drive in from the west but the heart still beats faster as the city approaches.

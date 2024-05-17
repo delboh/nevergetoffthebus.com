@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-04-04
 tags = ["dels"]
 draft = false
-weight = 2036
+weight = 1001
 +++
 
 The indicators are good: one block off the main drag, just across from the Capitol building. Inauspicious looking, no view in from the outside. I head in and take the last remaining seat at the counter. Two types of ketchup, four different hot sauces and Goldy’s house seasoning are lined up a carousel at each seat. Bodes well.

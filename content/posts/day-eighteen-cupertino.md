@@ -1,10 +1,10 @@
 +++
-title = "Day Eighteen, Cupertino"
+title = "Day Eighteen: Cupertino"
 author = ["Ebo H"]
 date = 2023-06-19
 tags = ["dels"]
 draft = true
-weight = 2006
+weight = 1001
 +++
 
 After fifteen hours on the bus the entourage spilled through the door of CJ's Prevost into the heartland of silicone valley. We had left Woodville at 11pm and tonight the venerable CJ Smol had Mr. J.R. Roberstson in the jump seat to share the driving and,apart from two brief stops for them to change over, the bus had been moving constantly for 858 miles.

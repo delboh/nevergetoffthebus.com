@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-03-25
 tags = ["dels"]
 draft = false
-weight = 2041
+weight = 1001
 +++
 
 The nearest place to the hotel to eat is Mel’s Diner. Buddy, Brian and I drift

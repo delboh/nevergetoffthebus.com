@@ -3,7 +3,7 @@ title = "The Birchmere Music Hall"
 author = ["Ebo H"]
 tags = ["dels"]
 draft = false
-weight = 2028
+weight = 1001
 +++
 
 After the overnight drive from Manhattan we have half a day to kill here before the business of the day starts. The presence of a golf cart in a glazed porch lined with famous arrest mug shots of musicians—Elvis Presley, Willy Nelson, Johnny Cash—is unsettling and at a first glance the surrounding streets do not look promising for places to hang out. But a proper reccy from the back lot of the Birchmere makes it apparent that we are in a very cool part of town. We are in a little bit of El Salvador. Everyone speaks Spanish. There is fruit for sale on the street. The convenience stores are stocked pretty much exclusively with Latin American produce and in the bakery on Mount Vernon Avenue the woman behind the counter calls someone from the back to deal with me when I speak to her in English. In El Pulgarcito there are half-a-dozen people in the kitchen prepping the days menu. The streets here are full of life. It all makes me nostalgic for the years Madeline and I spent living in Madrid. This is such a relief from the mind numbing banality of strip mall America and a side of US culture that we are rarely lucky enough to see—the absolute opposite of the middle-class college towns that we usually visit when tours have taken us south of the Mason-Dixon.

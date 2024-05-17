@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-06
 tags = ["dels"]
 draft = false
-weight = 2050
+weight = 1001
 +++
 
 This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.

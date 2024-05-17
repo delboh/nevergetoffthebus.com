@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-02
 tags = ["dels"]
 draft = false
-weight = 2053
+weight = 1001
 +++
 
 It seems appropriate that we are back in Ohio where the we played the final show of last year's US tour---Columbus this time. But it was touch and go getting here.  A catalogue of mishaps on the journey---phantom bags; lost (and, thankfully, found) passports; a two and a half hour delay at Heathrow airport that left us stranded in Philadelphia; a disagreement with US Customs that almost resulted in us having all of our guitars impounded. But we made it to the show with an hour to spare, a little frayed around the edges but in one piece and with the guitars.

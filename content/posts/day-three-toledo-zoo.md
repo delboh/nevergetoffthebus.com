@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-04
 tags = ["dels"]
 draft = false
-weight = 2051
+weight = 1001
 +++
 
 Now this was unexpected. A show in a zoo.

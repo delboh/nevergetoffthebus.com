@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-07
 tags = ["dels"]
 draft = false
-weight = 2048
+weight = 1001
 +++
 
 The BMO Pavilion is right on the shore of Lake Michigan

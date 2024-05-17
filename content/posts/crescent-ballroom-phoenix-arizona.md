@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2022-03-27
 tags = ["dels"]
 draft = false
-weight = 2039
+weight = 1001
 +++
 
 There is a beautiful softness to the morning desert light.

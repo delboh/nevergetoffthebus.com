@@ -4,7 +4,7 @@ author = ["Ebo H"]
 date = 2023-06-06
 tags = ["dels"]
 draft = false
-weight = 2049
+weight = 1001
 +++
 
 Back to another back stage parking lot. This one with military levels of security; buses and the trucks checked with mirrors as they enter, metal detectors at the entrances to the lot, a second security ring and another metal detector to get to and from the Prevost, and a third level of security and a third metal detector to get on to the stage. Something to do with the levels of gun violence in Chicago. At least they take it seriously here, even if no one seems to care that everyone passing through the detectors has something on their person that sets them off.
