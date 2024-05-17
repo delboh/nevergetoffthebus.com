@@ -1,7 +1,7 @@
 +++
 title = "Interlude: Travels With Charley"
 author = ["Ebo H"]
-date = 2023-06-08
+date = 2023-06-08T00:00:00+01:00
 tags = ["dels"]
 draft = true
 weight = 1001
