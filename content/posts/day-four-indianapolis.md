@@ -1,7 +1,7 @@
 +++
 title = "Day Four: Indianapolis"
 author = ["Ebo H"]
-date = 2023-06-06
+date = 2023-06-05
 tags = ["dels"]
 draft = false
 weight = 1001

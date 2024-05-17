@@ -536,7 +536,7 @@ I ventured out into the bleachers for a bit and sure enough the ticket holding C
 ** DONE Day Four: Indianapolis
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-four-indianapolis
-:EXPORT_DATE: 2023-06-06
+:EXPORT_DATE: 2023-06-05
 :END:
 This was our first headline show on this tour and the first place that was not airport or bus or venue (or zoo) that I had set foot in since leaving home.
 It is only a three hour drive from Toledo and bus came to rest outside HI-FI Indy early.
