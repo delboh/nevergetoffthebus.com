@@ -435,7 +435,6 @@ Aware that we were walking parallel to the Mississippi and at this point we had 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 
 ** TODO Interlude: Travels With Charley
-
 :PROPERTIES:
 :EXPORT_FILE_NAME: interlude-travels-with-charley
 :EXPORT_DATE: 2023-06-08
@@ -444,8 +443,6 @@ Aware that we were walking parallel to the Mississippi and at this point we had 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** DONE Day Seven: St Cloud part I
-
-
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-seven-st-cloud-part-i
 :EXPORT_DATE: 2023-06-08
