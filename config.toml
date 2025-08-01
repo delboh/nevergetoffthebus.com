@@ -42,7 +42,7 @@ author = "Ebo H"
         weight = 2
 
   [[menu.footer]]
-        name = "donotrehearse.comg"
+        name = "donotrehearse.com"
         url = "https://donotrehearse.com"
         weight = 3 
 
