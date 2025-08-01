@@ -6,11 +6,45 @@
 #+author: Ebo H
 
 * Never get off the bus                                                :dels:
+
 ** TODO Day Fifty-four
+
 :PROPERTIES:
 :EXPORT_FILE_NAME: day-fifty-four
 :EXPORT_DATE: [2023-07-24]
 :END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty-four
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-four
+:EXPORT_DATE: [2023-07-24]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Day Fifty-four
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: day-fifty-four
+:EXPORT_DATE: [2023-07-24]
+:END:
+
+
+[[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
+** TODO Scarborough Open Air Theatre
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: scarborough-open-air-theatre
+:EXPORT_DATE: [2024-06-18]
+:END:
+
+A bumpy overnight drive dragging our guitars and amps and keyboards and associated gubbins behind us in a trailer brought us to Scarborough. The final part of  the drive involved a convoy of busses and trucks being chaperoned along the promenade into the theatre and even before I had disembarked strong memories of coming here as a child on a family holiday were being triggered. The miniature railway that shuffles between the North  Bay and South Bay starts right by the theatre and passed a couple of meters from where we finally came to rest.
+
+Was I really still the same person as the six  year old that was on that train more than five decades ago. I had a visual image of myself on that trip from photographs, one in particular that I now recognized as taken at Scarborough Castle who's unmistakable silhouette sits above the town on the cliffs.
+
 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
@@ -212,9 +246,36 @@
 :EXPORT_DATE: [2023-06-29]
 :END:
 
-How long does it take for the river to flow to here from Minnesota. Could I be looking at some of the same water that passed me three weeks ago in St. Cloud?
+#+begin_quote
+Traditionally the city that care forgot, New Orleans is, perhaps, best known for its liberal attitude towards human frailties, its `Live and Let Live' policy. To the tourist the city is first of all a place in which to eat, drink, and be merry. Generations of gourmands and tipplers have waxed fat on gumbo and bouillabaisse and pompano, and gay on gin fizzes and absinthe drips and Sazerac cocktails; many of them, Thackeray and Mark Twain ncluded, have communicated their appreciation of the `American Paris' to the world. Generations of revelers have gone their joyous way through the Carnival Season to Mardi Gras, that maddest of all mad days when every man may be a king, or if he prefers, a tramp or a clown or an Indian chief and dance in the streets.
+#+end_quote
 
-I'd never really thought about rivers as being `great' before but 
+
+/New Orleans city guide, written and compiled by the Federal Writers' Project of the Works Progress Administration for the city of New Orleans./
+Author 
+Federal Writers' Project (New Orleans, La.).Federal Writers' Project (New Orleans, La.).
+Published 
+Boston,Houghton Mifflin[c1938]
+Description 
+lxii, 430 p.illus., plates, maps (1 fold. in pocket)21 cm.
+
+https://hdl.handle.net/2027/mdp.39015049189783
+
+How long does it take for the river to flow to here from Minnesota? Could I be looking at some of the same water that passed me three weeks ago, a thousand miles north in St. Cloud?
+
+You don't never really think about rivers as being `great' in the UK. They define cities---Liverpool and the Mersey; Newcastle and the Tyne, Glasgow and the Clyde
+
+the Great Rivers of the USA,
+
+the Mississippi and the Missouri, trace a path that spans a continent
+
+at the Mississippi delta water from ?? states / ?? % flows into the Gulf of Mexico
+
+We had been under extreme heat warnings on and off from day one, and we had been in places where the thermometer read higher, but New Orleans has humidity: 86 per cent humidity with an air temperature of 90 degrees. "Hotter'n the devils ass-crack" was the opinion of  a passerby on Decatur, offered without looking up from the side walk as I climbed from The Prevost at 7am  in front of the House Of Blues.
+
+Today was another headline club show slotted in to the itinerary to keep us match fit for two big shows back in Glasgow when this was over.
+
+
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** TODO Day Twenty-seven: Tuscaloosa
@@ -424,9 +485,65 @@ It seemed inconceivable that this water flows for more than two thousand miles a
 :EXPORT_DATE: 2023-06-08T:01:00
 :END:
 
-Three blocks from MC's Dugout and we were in the leafy residential grid that lies behind the endless highway strip mall: uniform clapboard houses of all shapes and sizes, each sitting in a parcel of lawn with varied assortments of vehicles, garden furniture, kids toys and topiary strewn around. And a dizzying array of places of worship; Lutheran, Islamic, Presbyterian, Pentecostal, Spirit Filled Non Denominational Love Christian Fellowship, High Praise Non Denominational Prophetic Healing & Deliverance, Catholic, Holy Mhyrrbearers Orthodox, Methodist, Life Assembly of God, Peace United Church of Christ---all within a couple of square miles. Conspicuous consumption of God seems to go hand in hand with the conspicuous consumption of valuable (or not so valuable) goods as the way to gain reputability in the Midwest. No pedestrians, in fact very few sightings of any homo sapiens at all other that in passing motor vehicles, but nevertheless, surprisingly pleasant and diverting surroundings to chew the fat with a comrade and companion.
+Three blocks from MC's Dugout and we were in the leafy residential grid that lies behind the endless highway strip mall
 
-Three miles or so down Clearwater drive the churches and the houses started to peter out into a strip of small businesses that would fix your plumbing or your car, look after your kids, ageing relatives or animals while you work, or sell you a lawn mower, or a flag pole, or beer and liquor. On reflection, all obviously essential services for the neighbourhood.
+9th Avenue South seems to have been laid out on a map with a ruler and the prairie on either side sold off in 50ft lots
+
+each lot has a clapboard house
+
+sitting in a parcel of lawn
+
+no fences separating the lots
+
+but nevertheless as clearly delineated as if there was a picket by when and how expertly the grass has been mown
+
+and even though the clapboard has been assembled into residencies of all shapes and sizes
+
+and each has a varied assortment of station wagons, pick-up trucks, boats, trailers, RVs, barbeques, garden furniture, kids toys and topiary strewn around it
+
+they all feel exactly the same
+
+No pedestrians. In fact very few sightings of any homo sapiens at all other than in the occasional passing motor vehicle: no one sat on a patio having a smoke, no kids running around, no one barbequing, no one pruning and training an ornamental hedge.
+
+Unappealing and borderline alienating
+
+but not threatening in spite of that: street crime is not going to pay here---you would be hard pushed to find anyone to pickpocket or mug if that was your business.
+
+All in all surprisingly pleasant and diverting surroundings to chew the fat strolling with a comrade and companion for a couple of hours in the evening sun.
+
+scattered among the residencies of the neighbourhood are a dizzying array of places of worship with increasingly complex notions of ministry;
+
+Lutheran,
+
+Islamic,
+
+Presbyterian, Pentecostal,
+
+Catholic,
+
+Methodist,
+
+Life Assembly of God,
+
+Peace United Church of Christ
+
+Holy Mhyrrbearers Orthodox,
+
+Spirit Filled Non Denominational Love Christian Fellowship,
+
+High Praise Non Denominational Prophetic Healing & Deliverance,
+
+---all within a couple of square miles.
+
+Conspicuous consumption of God seems to go hand in hand with the conspicuous consumption of valuable (or not so valuable) goods as the way to gain reputability in the Midwest.
+
+9th Avenue South swings slightly to the east to stay parallel to the Mississippi
+
+and morphs into Clearwater Drive-
+
+the churches and the houses start to peter out into a strip of small businesses that will fix your plumbing or your car, look after your kids, ageing relatives or animals while you work, tend to your yard and / or sell you a lawn mower, or a flag pole, or beer and liquor. All the essential neighbourhood services I suppose, all other needs and desires---food, clothing, OLED screens, cosmetic surgery, pharmaceuticals etc. easily acquired on the miles of strip mall in your station wagon or your pick-up.
+
+
 After a few blocks of this Clearwater Drive abandoned its prosaic name and reverted to its utilitarian designation as County Highway 7. The environs started to feel unexpectedly rural.
 
 Aware that we were walking parallel to the Mississippi and at this point we had figured out the we could get on to a trail along a disused railway track that would take us to where the river passed close to the IHG Inn and Suites. Two miles along a perfectly straight tree lined path where we were even passed by cyclists and our destination was in sight. Cutting back up from the trail towards our billet for the night JC was looking for sustenance before retiring. We were re-entering retail purgatory at this point and there right in front of us was a an anonymous one storey box in an empty car park with a sign over the door announcing RJ's American Grill. A quick bit of research on the web indicated that there might be more to RJ's that its location and appearance indicated and sure enough behind the door was a classy looking restaurant bar. RJ's had precisely one customer: it came as no surprise to us, in fact there was a kind of inevitability to it that this customer was a refugee from our bus---you get very used to this kind of synchronicity on tour. We pulled up bar stools alongside Jim, the ever smiling colt of the entourage and asked for the menu only to be told that the kitchen and the bar were closed. It was seven forty five. JC cut his losses and headed across the parking lot towards the lights of a 24 Hour Pilot Travel Centre in search of delicious and nutritious snackage that would get him through the evening. Jim and I made for the Prevost in search of any tolerable red wine that might have been overlooked on the previous night's journey that we could drink at the hotel picnic tables as a bright orange sun disappeared from the cloudless Minnesota skies behind the parking lots. 
@@ -439,7 +556,25 @@ Aware that we were walking parallel to the Mississippi and at this point we had 
 :EXPORT_FILE_NAME: interlude-travels-with-charley
 :EXPORT_DATE: 2023-06-08T:00:02
 :END:
+What better book to read on the road?
 
+blurb?
+
+by Lake Erie, Cincinnati, Toledo, Buffalo
+
+Minneapolis,
+
+a catalogue of places on our itinerary
+
+and a catalogue of places that lurk in memory from countless US road trips
+
+St. Cloud even gets a mention. (Steinbeck doesn't actually go there, but he gets directions from someone from St. Cloud when he gets lost trying to get to Sauk Centre to pay homage to the author Sinclair Lewis.)
+
+Published in the year of my birth
+
+in the wake of the Cuban Missile crisis and the 
+
+shadow of nuclear war 
 
 [[https://never-get-off-the-bus.ghost.io/#/portal/][You can subcribe to Never Get Off The Bus here]]
 ** DONE Day Seven: St Cloud part I
